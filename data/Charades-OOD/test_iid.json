@@ -1,0 +1,6448 @@
+{
+    "WXXYY": {
+        "timestamps": [
+            [
+                28.0,
+                36.0
+            ],
+            [
+                7.0,
+                19.3
+            ],
+            [
+                7.0,
+                19.3
+            ],
+            [
+                7.0,
+                19.3
+            ],
+            [
+                4.4,
+                11.4
+            ],
+            [
+                28.4,
+                36.0
+            ],
+            [
+                28.4,
+                36.0
+            ]
+        ],
+        "sentences": [
+            "person sits on the floor.",
+            "person begins playing with their phone.",
+            "person plays on his phone.",
+            "person begins to play on his phone.",
+            "person closes the door.",
+            "person fixes the doorknob.",
+            "person start fixing the doorknob."
+        ],
+        "duration": 35.4375
+    },
+    "U3T5A": {
+        "timestamps": [
+            [
+                3.3,
+                9.5
+            ]
+        ],
+        "sentences": [
+            "person opened the refrigerator."
+        ],
+        "duration": 32.1875
+    },
+    "B8PQL": {
+        "timestamps": [
+            [
+                0.7,
+                5.9
+            ]
+        ],
+        "sentences": [
+            "the person puts the towel on the table."
+        ],
+        "duration": 24.8125
+    },
+    "0WHOH": {
+        "timestamps": [
+            [
+                0.0,
+                11.0
+            ]
+        ],
+        "sentences": [
+            "one person with hair in a towel undresses."
+        ],
+        "duration": 29.625
+    },
+    "4BEZX": {
+        "timestamps": [
+            [
+                39.6,
+                44.0
+            ],
+            [
+                39.6,
+                44.0
+            ],
+            [
+                0.0,
+                4.0
+            ],
+            [
+                0.0,
+                4.0
+            ],
+            [
+                0.0,
+                4.0
+            ],
+            [
+                15.8,
+                24.3
+            ],
+            [
+                15.8,
+                24.3
+            ],
+            [
+                39.6,
+                44.0
+            ],
+            [
+                39.6,
+                44.0
+            ],
+            [
+                0.0,
+                4.0
+            ]
+        ],
+        "sentences": [
+            "person sit down in a chair.",
+            "person they sit down in a chair.",
+            "a person opens the front door that leads outside.",
+            "a person opens the door.",
+            "person opening a door.",
+            "the person closes the door.",
+            "person closes the door.",
+            "the person sits down in a chair.",
+            "person eventually sitting in a chair.",
+            "a person opens the door outside."
+        ],
+        "duration": 43.4375
+    },
+    "1ZWPP": {
+        "timestamps": [
+            [
+                2.6,
+                7.7
+            ],
+            [
+                13.0,
+                19.4
+            ],
+            [
+                13.0,
+                19.4
+            ]
+        ],
+        "sentences": [
+            "a person is smiling in the mirror of their bathroom.",
+            "person opens the door.",
+            "person they open the door."
+        ],
+        "duration": 23.5
+    },
+    "1IPYC": {
+        "timestamps": [
+            [
+                0.0,
+                8.0
+            ]
+        ],
+        "sentences": [
+            "person reading a book."
+        ],
+        "duration": 33.25
+    },
+    "VJ0LT": {
+        "timestamps": [
+            [
+                23.1,
+                33.0
+            ],
+            [
+                2.5,
+                13.4
+            ],
+            [
+                2.5,
+                13.4
+            ],
+            [
+                12.9,
+                21.4
+            ],
+            [
+                23.1,
+                33.0
+            ]
+        ],
+        "sentences": [
+            "person closing the front door.",
+            "person pours it into a glass.",
+            "person pours a glass of soda.",
+            "the person drinks the coke from the glass.",
+            "person closes a door outside."
+        ],
+        "duration": 32.0
+    },
+    "ZFT06": {
+        "timestamps": [
+            [
+                21.5,
+                30.0
+            ],
+            [
+                8.6,
+                14.8
+            ],
+            [
+                18.9,
+                25.7
+            ]
+        ],
+        "sentences": [
+            "a person is laughing in front of the refrigerator.",
+            "person opens the door.",
+            "person takes a glass out from the refrigerator."
+        ],
+        "duration": 30.625
+    },
+    "N0N4I": {
+        "timestamps": [
+            [
+                5.4,
+                12.5
+            ],
+            [
+                0.0,
+                8.7
+            ],
+            [
+                9.6,
+                19.4
+            ]
+        ],
+        "sentences": [
+            "person they open a cabinet.",
+            "a person is cooking on the stove.",
+            "person take out some medicine."
+        ],
+        "duration": 23.9375
+    },
+    "HC62A": {
+        "timestamps": [
+            [
+                0.0,
+                4.9
+            ],
+            [
+                5.5,
+                12.2
+            ],
+            [
+                5.5,
+                12.2
+            ],
+            [
+                0.0,
+                4.9
+            ],
+            [
+                8.3,
+                14.6
+            ]
+        ],
+        "sentences": [
+            "a person sits in a chair.",
+            "the person takes a bag of food from the window.",
+            "person takes a piece of food out.",
+            "a person sits down in a chair to watch television.",
+            "the person opens a bag of groceries."
+        ],
+        "duration": 31.75
+    },
+    "P2HZG": {
+        "timestamps": [
+            [
+                4.0,
+                10.2
+            ],
+            [
+                13.0,
+                18.4
+            ],
+            [
+                0.0,
+                9.3
+            ]
+        ],
+        "sentences": [
+            "person they close the laptop.",
+            "person an opens a cabinet.",
+            "a person is sitting at the dining room table."
+        ],
+        "duration": 31.0625
+    },
+    "HWYTN": {
+        "timestamps": [
+            [
+                0.0,
+                4.0
+            ],
+            [
+                0.0,
+                4.0
+            ],
+            [
+                0.0,
+                4.0
+            ]
+        ],
+        "sentences": [
+            "another person runs out the room.",
+            "another man running past.",
+            "another person is running in shoes."
+        ],
+        "duration": 30.5
+    },
+    "SXI64": {
+        "timestamps": [
+            [
+                5.6,
+                13.5
+            ]
+        ],
+        "sentences": [
+            "person undressing in front of their mirror glass."
+        ],
+        "duration": 32.375
+    },
+    "MJYTA": {
+        "timestamps": [
+            [
+                8.6,
+                14.9
+            ]
+        ],
+        "sentences": [
+            "the person puts the bowls on the table."
+        ],
+        "duration": 27.0
+    },
+    "61WBK": {
+        "timestamps": [
+            [
+                0.0,
+                4.3
+            ]
+        ],
+        "sentences": [
+            "a person is throwing clothes down the stairs."
+        ],
+        "duration": 32.875
+    },
+    "BDY1V": {
+        "timestamps": [
+            [
+                3.7,
+                19.0
+            ],
+            [
+                20.3,
+                26.3
+            ],
+            [
+                25.0,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "one person undresses in front of a wardrobe.",
+            "person takes a pillow from the closet.",
+            "person snuggles the pillow."
+        ],
+        "duration": 30.6875
+    },
+    "ZIWZH": {
+        "timestamps": [
+            [
+                0.0,
+                5.2
+            ],
+            [
+                1.6,
+                13.5
+            ]
+        ],
+        "sentences": [
+            "person close the box.",
+            "a person is sitting on a chair opening a box."
+        ],
+        "duration": 34.0
+    },
+    "I0588": {
+        "timestamps": [
+            [
+                13.0,
+                21.5
+            ],
+            [
+                13.0,
+                21.5
+            ],
+            [
+                13.0,
+                21.6
+            ]
+        ],
+        "sentences": [
+            "a person puts a box on the counter.",
+            "a person puts a box into the cabinet pantry.",
+            "person put it on a shelf in a cabinet."
+        ],
+        "duration": 30.8125
+    },
+    "GXVX8": {
+        "timestamps": [
+            [
+                6.5,
+                12.8
+            ]
+        ],
+        "sentences": [
+            "person pours water into a cup."
+        ],
+        "duration": 30.875
+    },
+    "72VJD": {
+        "timestamps": [
+            [
+                0.0,
+                8.3
+            ]
+        ],
+        "sentences": [
+            "person holding a phone to their ear."
+        ],
+        "duration": 31.5625
+    },
+    "8Y4YD": {
+        "timestamps": [
+            [
+                18.0,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "another person holds a camera."
+        ],
+        "duration": 31.0625
+    },
+    "5C4EK": {
+        "timestamps": [
+            [
+                0.0,
+                6.2
+            ]
+        ],
+        "sentences": [
+            "a person reads a book."
+        ],
+        "duration": 15.75
+    },
+    "65UVU": {
+        "timestamps": [
+            [
+                0.0,
+                3.2
+            ],
+            [
+                9.6,
+                16.1
+            ],
+            [
+                4.2,
+                16.0
+            ]
+        ],
+        "sentences": [
+            "a person opens the door to the bedroom.",
+            "person takes another box from the same shelf.",
+            "a person puts a container on a top shelf."
+        ],
+        "duration": 31.125
+    },
+    "J06RS": {
+        "timestamps": [
+            [
+                0.0,
+                11.0
+            ],
+            [
+                0.0,
+                11.0
+            ],
+            [
+                2.7,
+                9.0
+            ],
+            [
+                2.7,
+                9.0
+            ]
+        ],
+        "sentences": [
+            "a person in a hall smiling.",
+            "the person is smiling.",
+            "person laughing bends over.",
+            "a person is laughing in the doorway."
+        ],
+        "duration": 33.375
+    },
+    "VRMNI": {
+        "timestamps": [
+            [
+                16.4,
+                32.8
+            ],
+            [
+                0.0,
+                4.2
+            ],
+            [
+                29.8,
+                35.0
+            ],
+            [
+                5.6,
+                11.0
+            ],
+            [
+                5.6,
+                11.0
+            ],
+            [
+                16.4,
+                32.8
+            ],
+            [
+                5.6,
+                11.0
+            ]
+        ],
+        "sentences": [
+            "person they wash the dish in the sink.",
+            "person opening the door.",
+            "person starts putting the dishes on the shelf.",
+            "person they turn on the light in the room.",
+            "the person turns on the light.",
+            "person brings dishes to the sink washes them.",
+            "a person enters through a doorway turns on a light."
+        ],
+        "duration": 33.9375
+    },
+    "UGJSB": {
+        "timestamps": [
+            [
+                20.3,
+                27.4
+            ]
+        ],
+        "sentences": [
+            "the person switches off the light when exiting the room."
+        ],
+        "duration": 29.625
+    },
+    "OOKN5": {
+        "timestamps": [
+            [
+                16.6,
+                27.8
+            ],
+            [
+                22.8,
+                38.0
+            ]
+        ],
+        "sentences": [
+            "person takes the jacket out of the box.",
+            "person begin dressing."
+        ],
+        "duration": 36.9375
+    },
+    "IUW9N": {
+        "timestamps": [
+            [
+                0.1,
+                5.9
+            ],
+            [
+                0.1,
+                5.9
+            ]
+        ],
+        "sentences": [
+            "person closes the door behind them.",
+            "person closing the door behind them."
+        ],
+        "duration": 30.4375
+    },
+    "RM1FR": {
+        "timestamps": [
+            [
+                3.2,
+                10.7
+            ],
+            [
+                3.2,
+                10.7
+            ],
+            [
+                14.2,
+                20.1
+            ]
+        ],
+        "sentences": [
+            "one person opens a cabinet.",
+            "person opens a couple cabinets.",
+            "person closes the cabinets."
+        ],
+        "duration": 35.5
+    },
+    "CFWP7": {
+        "timestamps": [
+            [
+                31.7,
+                37.0
+            ]
+        ],
+        "sentences": [
+            "person throws their shoes on the ground."
+        ],
+        "duration": 36.25
+    },
+    "DO48Z": {
+        "timestamps": [
+            [
+                0.8,
+                9.0
+            ],
+            [
+                4.7,
+                17.9
+            ],
+            [
+                0.8,
+                9.0
+            ],
+            [
+                5.7,
+                16.4
+            ]
+        ],
+        "sentences": [
+            "a person is smiling.",
+            "person putting their shoes in a closet.",
+            "the person was smiling.",
+            "person putting shoes on the shelf."
+        ],
+        "duration": 31.25
+    },
+    "0F453": {
+        "timestamps": [
+            [
+                0.3,
+                7.9
+            ],
+            [
+                0.3,
+                7.9
+            ]
+        ],
+        "sentences": [
+            "the person opens a refrigerator.",
+            "person is opening refrigerator."
+        ],
+        "duration": 21.3125
+    },
+    "5FHH2": {
+        "timestamps": [
+            [
+                21.3,
+                26.0
+            ]
+        ],
+        "sentences": [
+            "the person throws the stack of clothes onto a pillow."
+        ],
+        "duration": 24.9375
+    },
+    "YO9NC": {
+        "timestamps": [
+            [
+                22.5,
+                31.0
+            ],
+            [
+                7.6,
+                19.9
+            ],
+            [
+                1.6,
+                11.6
+            ],
+            [
+                1.6,
+                11.6
+            ],
+            [
+                22.5,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "person picks up a book to read.",
+            "person put their clothes in the closet.",
+            "person they start undressing by taking their jacket off.",
+            "person begins to undress.",
+            "person start watching the book."
+        ],
+        "duration": 30.125
+    },
+    "OR3G4": {
+        "timestamps": [
+            [
+                0.0,
+                9.3
+            ],
+            [
+                0.0,
+                9.3
+            ]
+        ],
+        "sentences": [
+            "one person grasps a towel to put over a shoulder.",
+            "the person puts a towel over their shoulder."
+        ],
+        "duration": 23.3125
+    },
+    "27JQL": {
+        "timestamps": [
+            [
+                17.7,
+                24.1
+            ],
+            [
+                17.7,
+                24.1
+            ]
+        ],
+        "sentences": [
+            "person eat a sandwich.",
+            "person eats a sandwich."
+        ],
+        "duration": 31.0625
+    },
+    "67MSU": {
+        "timestamps": [
+            [
+                22.7,
+                31.0
+            ],
+            [
+                0.0,
+                3.8
+            ],
+            [
+                0.0,
+                3.8
+            ]
+        ],
+        "sentences": [
+            "person closes the refrigerator.",
+            "person they open the refrigerator.",
+            "a person opens a refrigerator."
+        ],
+        "duration": 30.4375
+    },
+    "0GH5O": {
+        "timestamps": [
+            [
+                0.0,
+                4.9
+            ],
+            [
+                7.0,
+                13.7
+            ]
+        ],
+        "sentences": [
+            "person walk through the doorway smiling.",
+            "the person opens the front door looks outside."
+        ],
+        "duration": 30.625
+    },
+    "6Z9ZC": {
+        "timestamps": [
+            [
+                10.2,
+                18.1
+            ],
+            [
+                10.2,
+                18.1
+            ]
+        ],
+        "sentences": [
+            "person puts away some clothes.",
+            "person someone putting clothes in a drawer."
+        ],
+        "duration": 31.125
+    },
+    "MC6J7": {
+        "timestamps": [
+            [
+                19.3,
+                32.6
+            ],
+            [
+                0.0,
+                6.1
+            ],
+            [
+                11.5,
+                17.7
+            ],
+            [
+                21.3,
+                33.1
+            ],
+            [
+                8.5,
+                17.2
+            ]
+        ],
+        "sentences": [
+            "person take out a vacuum.",
+            "a person opens the door of a wardrobe.",
+            "person they throw the clothes in the closet.",
+            "person walk away smiling.",
+            "person puts the clothes in the wardrobe."
+        ],
+        "duration": 33.25
+    },
+    "FX7ZY": {
+        "timestamps": [
+            [
+                16.2,
+                21.0
+            ],
+            [
+                2.0,
+                7.0
+            ],
+            [
+                16.2,
+                21.0
+            ]
+        ],
+        "sentences": [
+            "person proceeds to throw the box on the floor.",
+            "person they begin opening the box.",
+            "person throwing it to the floor."
+        ],
+        "duration": 20.5625
+    },
+    "00X3U": {
+        "timestamps": [
+            [
+                14.9,
+                20.5
+            ],
+            [
+                14.9,
+                20.5
+            ],
+            [
+                17.1,
+                22.0
+            ]
+        ],
+        "sentences": [
+            "person shutting the closet door behind them.",
+            "person grabbing a blanket leaving the closet shutting the door.",
+            "person run away."
+        ],
+        "duration": 21.25
+    },
+    "ESTDK": {
+        "timestamps": [
+            [
+                27.7,
+                33.0
+            ],
+            [
+                27.7,
+                33.0
+            ],
+            [
+                0.0,
+                9.2
+            ],
+            [
+                0.0,
+                9.2
+            ],
+            [
+                21.0,
+                27.2
+            ]
+        ],
+        "sentences": [
+            "person puts the box away.",
+            "person putting the box back.",
+            "person opens the cabinet.",
+            "a person opens up the cabinet.",
+            "the person puts the glass down."
+        ],
+        "duration": 32.8125
+    },
+    "D2T7Z": {
+        "timestamps": [
+            [
+                16.8,
+                24.0
+            ],
+            [
+                16.8,
+                24.0
+            ]
+        ],
+        "sentences": [
+            "person throws it on the floor.",
+            "person throws it onto the floor."
+        ],
+        "duration": 30.625
+    },
+    "XFRYR": {
+        "timestamps": [
+            [
+                5.4,
+                15.2
+            ]
+        ],
+        "sentences": [
+            "a person takes some boxes out of a cabinet."
+        ],
+        "duration": 30.75
+    },
+    "G2DIN": {
+        "timestamps": [
+            [
+                6.6,
+                15.5
+            ],
+            [
+                23.1,
+                33.0
+            ],
+            [
+                6.6,
+                15.5
+            ],
+            [
+                11.5,
+                18.8
+            ]
+        ],
+        "sentences": [
+            "person puts a box on the closet shelf.",
+            "person takes some clothes out.",
+            "person puts a box of medicine on the shelf.",
+            "a person opens the closet door."
+        ],
+        "duration": 31.9375
+    },
+    "J3V1D": {
+        "timestamps": [
+            [
+                19.6,
+                25.6
+            ]
+        ],
+        "sentences": [
+            "person takes off their shoes."
+        ],
+        "duration": 31.1875
+    },
+    "KZSA9": {
+        "timestamps": [
+            [
+                9.5,
+                17.7
+            ],
+            [
+                23.6,
+                30.9
+            ],
+            [
+                19.5,
+                29.6
+            ]
+        ],
+        "sentences": [
+            "a person opens a box.",
+            "person takes a blanket out.",
+            "person closes the box."
+        ],
+        "duration": 29.8125
+    },
+    "54VBR": {
+        "timestamps": [
+            [
+                16.3,
+                23.8
+            ],
+            [
+                16.3,
+                23.8
+            ],
+            [
+                16.3,
+                23.8
+            ],
+            [
+                16.3,
+                23.8
+            ],
+            [
+                13.0,
+                18.7
+            ]
+        ],
+        "sentences": [
+            "person sits in a chair at the table.",
+            "a person is sitting at a table eating a sandwich.",
+            "person sits down at the table.",
+            "a person is sitting at the table eating a sandwich.",
+            "person takes a drink from a glass."
+        ],
+        "duration": 28.9375
+    },
+    "9A5MP": {
+        "timestamps": [
+            [
+                9.3,
+                25.6
+            ],
+            [
+                26.5,
+                34.0
+            ],
+            [
+                0.0,
+                15.3
+            ],
+            [
+                9.2,
+                22.3
+            ],
+            [
+                0.0,
+                15.3
+            ]
+        ],
+        "sentences": [
+            "the person eats the snack.",
+            "person closes the door.",
+            "a person tidying the area with a broom stops.",
+            "person takes a bite of food removed from a bag.",
+            "a person uses a broom to tidy up the garage."
+        ],
+        "duration": 32.875
+    },
+    "BV5CC": {
+        "timestamps": [
+            [
+                12.9,
+                21.3
+            ],
+            [
+                19.4,
+                31.0
+            ],
+            [
+                17.7,
+                23.4
+            ],
+            [
+                19.4,
+                31.0
+            ],
+            [
+                0.6,
+                5.6
+            ]
+        ],
+        "sentences": [
+            "person closes the door.",
+            "person start to eat.",
+            "person they take a sandwich from the cabinet.",
+            "person start eating it.",
+            "person they reach into an open cabinet."
+        ],
+        "duration": 30.25
+    },
+    "61IVZ": {
+        "timestamps": [
+            [
+                2.6,
+                9.2
+            ],
+            [
+                0.0,
+                12.0
+            ],
+            [
+                5.8,
+                13.3
+            ],
+            [
+                5.8,
+                13.3
+            ],
+            [
+                0.0,
+                5.3
+            ]
+        ],
+        "sentences": [
+            "person closes the door.",
+            "person they set down the bag they're holding.",
+            "person put down the bag they were holding.",
+            "the person puts a bag down.",
+            "a person opens the door."
+        ],
+        "duration": 25.25
+    },
+    "4WMDU": {
+        "timestamps": [
+            [
+                19.8,
+                30.5
+            ],
+            [
+                0.2,
+                7.8
+            ],
+            [
+                4.4,
+                12.7
+            ],
+            [
+                2.6,
+                7.9
+            ],
+            [
+                0.2,
+                7.8
+            ]
+        ],
+        "sentences": [
+            "a person holding a glass drinking.",
+            "person drinking from a glass.",
+            "carrying a bag of foodthe person opens the bag.",
+            "person puts glass on counter.",
+            "person drinks out of glass again."
+        ],
+        "duration": 32.125
+    },
+    "2FL0X": {
+        "timestamps": [
+            [
+                1.0,
+                6.8
+            ],
+            [
+                2.8,
+                9.6
+            ],
+            [
+                1.0,
+                6.8
+            ],
+            [
+                2.8,
+                9.6
+            ]
+        ],
+        "sentences": [
+            "a person is running down the hallway.",
+            "person opens the door.",
+            "the person runs to the basement.",
+            "person opens a door."
+        ],
+        "duration": 33.125
+    },
+    "BIQGN": {
+        "timestamps": [
+            [
+                0.0,
+                5.4
+            ],
+            [
+                12.5,
+                17.8
+            ],
+            [
+                0.0,
+                5.4
+            ],
+            [
+                15.8,
+                21.2
+            ]
+        ],
+        "sentences": [
+            "a person is smiling.",
+            "person closes the door.",
+            "a smiling person walks into a bathroom.",
+            "the person puts a towel on a shelf."
+        ],
+        "duration": 30.5625
+    },
+    "KA3ER": {
+        "timestamps": [
+            [
+                14.9,
+                22.1
+            ],
+            [
+                0.0,
+                13.6
+            ]
+        ],
+        "sentences": [
+            "person opens a cabinet.",
+            "a person is putting groceries on a shelf."
+        ],
+        "duration": 30.75
+    },
+    "JCT0K": {
+        "timestamps": [
+            [
+                2.6,
+                10.2
+            ],
+            [
+                0.1,
+                6.2
+            ]
+        ],
+        "sentences": [
+            "a person is opening the closet door.",
+            "person opens the closet."
+        ],
+        "duration": 29.875
+    },
+    "MS58Y": {
+        "timestamps": [
+            [
+                0.0,
+                9.0
+            ],
+            [
+                0.0,
+                9.8
+            ]
+        ],
+        "sentences": [
+            "a person is running through the doorway.",
+            "person walk through a second doorway."
+        ],
+        "duration": 30.0625
+    },
+    "SWZWL": {
+        "timestamps": [
+            [
+                21.7,
+                33.0
+            ]
+        ],
+        "sentences": [
+            "takes a picture of the second person."
+        ],
+        "duration": 31.875
+    },
+    "VS7VS": {
+        "timestamps": [
+            [
+                15.7,
+                23.4
+            ]
+        ],
+        "sentences": [
+            "laughing in a mischievous manner."
+        ],
+        "duration": 29.75
+    },
+    "NHUV1": {
+        "timestamps": [
+            [
+                0.0,
+                3.1
+            ]
+        ],
+        "sentences": [
+            "person opening a bag."
+        ],
+        "duration": 17.9375
+    },
+    "Q5MDU": {
+        "timestamps": [
+            [
+                0.0,
+                3.6
+            ],
+            [
+                0.0,
+                3.6
+            ],
+            [
+                0.0,
+                3.6
+            ],
+            [
+                0.0,
+                3.6
+            ]
+        ],
+        "sentences": [
+            "person turns the light off.",
+            "person turns the light on.",
+            "person turning on a light.",
+            "person turns on a light."
+        ],
+        "duration": 9.3125
+    },
+    "18FTZ": {
+        "timestamps": [
+            [
+                25.0,
+                33.0
+            ],
+            [
+                25.0,
+                33.0
+            ]
+        ],
+        "sentences": [
+            "person goes into the kitchen to eat something.",
+            "a person is eating over a sink."
+        ],
+        "duration": 31.6875
+    },
+    "TLCLG": {
+        "timestamps": [
+            [
+                23.6,
+                32.9
+            ],
+            [
+                13.8,
+                22.5
+            ],
+            [
+                23.6,
+                32.9
+            ],
+            [
+                13.8,
+                22.5
+            ],
+            [
+                23.6,
+                32.9
+            ]
+        ],
+        "sentences": [
+            "person runs down a hallway.",
+            "person talking on the phone.",
+            "person go for a run.",
+            "a person is talking on the phone.",
+            "the person quickly runs out."
+        ],
+        "duration": 31.9375
+    },
+    "XF93D": {
+        "timestamps": [
+            [
+                4.0,
+                11.0
+            ],
+            [
+                2.5,
+                8.0
+            ],
+            [
+                2.5,
+                8.0
+            ],
+            [
+                22.3,
+                25.0
+            ]
+        ],
+        "sentences": [
+            "person they close the door.",
+            "a person puts away a broom.",
+            "person puts broom in the closet.",
+            "person opens a door."
+        ],
+        "duration": 24.4375
+    },
+    "QZP8N": {
+        "timestamps": [
+            [
+                3.1,
+                10.3
+            ]
+        ],
+        "sentences": [
+            "person smiles when they look in the mirror."
+        ],
+        "duration": 29.125
+    },
+    "TKOYQ": {
+        "timestamps": [
+            [
+                0.0,
+                5.1
+            ]
+        ],
+        "sentences": [
+            "this person takes some comic books off the shelf."
+        ],
+        "duration": 31.4375
+    },
+    "X1R6D": {
+        "timestamps": [
+            [
+                2.2,
+                8.9
+            ],
+            [
+                2.2,
+                8.9
+            ]
+        ],
+        "sentences": [
+            "person closes the door.",
+            "the person closes the door behind them."
+        ],
+        "duration": 24.0625
+    },
+    "RSTVT": {
+        "timestamps": [
+            [
+                0.1,
+                7.4
+            ],
+            [
+                0.1,
+                7.4
+            ]
+        ],
+        "sentences": [
+            "a person runs down the stairs eating a sandwich.",
+            "a person is running down the stairs."
+        ],
+        "duration": 21.8125
+    },
+    "FQGQS": {
+        "timestamps": [
+            [
+                0.0,
+                4.3
+            ],
+            [
+                0.7,
+                5.3
+            ]
+        ],
+        "sentences": [
+            "a person opens a closet door.",
+            "person throws a pair of shoes inside."
+        ],
+        "duration": 12.0
+    },
+    "6RPUS": {
+        "timestamps": [
+            [
+                0.0,
+                11.8
+            ]
+        ],
+        "sentences": [
+            "there is a person at the stove cooking something."
+        ],
+        "duration": 30.6875
+    },
+    "40TYU": {
+        "timestamps": [
+            [
+                9.7,
+                14.6
+            ],
+            [
+                9.7,
+                14.6
+            ]
+        ],
+        "sentences": [
+            "person throws the box.",
+            "person throws the box onto the floor."
+        ],
+        "duration": 26.9375
+    },
+    "O1LMX": {
+        "timestamps": [
+            [
+                11.5,
+                18.8
+            ],
+            [
+                8.4,
+                14.2
+            ],
+            [
+                1.9,
+                14.3
+            ],
+            [
+                11.5,
+                18.8
+            ],
+            [
+                2.1,
+                14.2
+            ]
+        ],
+        "sentences": [
+            "person opens up the laptop.",
+            "the person puts the book away.",
+            "a person holds a book.",
+            "person opens the laptop up.",
+            "the person looks at the book."
+        ],
+        "duration": 30.1875
+    },
+    "2ECXI": {
+        "timestamps": [
+            [
+                5.7,
+                13.2
+            ],
+            [
+                5.7,
+                13.2
+            ],
+            [
+                2.1,
+                8.1
+            ]
+        ],
+        "sentences": [
+            "person opens laptop.",
+            "person opening their laptop.",
+            "person lies on bed."
+        ],
+        "duration": 27.625
+    },
+    "5OB3W": {
+        "timestamps": [
+            [
+                20.7,
+                26.9
+            ],
+            [
+                0.0,
+                6.3
+            ]
+        ],
+        "sentences": [
+            "a person takes bags.",
+            "person they begin opening bags."
+        ],
+        "duration": 30.8125
+    },
+    "YV0ZX": {
+        "timestamps": [
+            [
+                11.1,
+                19.1
+            ]
+        ],
+        "sentences": [
+            "the person opens the box."
+        ],
+        "duration": 38.375
+    },
+    "OKXIQ": {
+        "timestamps": [
+            [
+                0.0,
+                5.7
+            ]
+        ],
+        "sentences": [
+            "person they use the doorknob to open the cabinet."
+        ],
+        "duration": 32.0
+    },
+    "GKSL2": {
+        "timestamps": [
+            [
+                9.2,
+                17.6
+            ],
+            [
+                24.4,
+                39.0
+            ],
+            [
+                24.4,
+                39.0
+            ],
+            [
+                6.1,
+                13.2
+            ],
+            [
+                6.1,
+                13.2
+            ],
+            [
+                6.1,
+                13.2
+            ]
+        ],
+        "sentences": [
+            "person drinking a cup of milk.",
+            "person talk on a phone.",
+            "person talking on the phone.",
+            "a person is in their living room eating a cookie.",
+            "the person sits in a chair eating a snack.",
+            "person eating food."
+        ],
+        "duration": 38.625
+    },
+    "HKJUR": {
+        "timestamps": [
+            [
+                20.2,
+                27.3
+            ],
+            [
+                1.9,
+                10.9
+            ]
+        ],
+        "sentences": [
+            "the person is closing the refrigerator.",
+            "person opening a refrigerator."
+        ],
+        "duration": 32.5
+    },
+    "2JTRG": {
+        "timestamps": [
+            [
+                15.0,
+                25.1
+            ]
+        ],
+        "sentences": [
+            "person laughing as they eat a sandwich."
+        ],
+        "duration": 31.9375
+    },
+    "LCLLN": {
+        "timestamps": [
+            [
+                0.0,
+                5.1
+            ],
+            [
+                1.4,
+                6.9
+            ],
+            [
+                5.5,
+                11.9
+            ]
+        ],
+        "sentences": [
+            "one person takes a glass from a shelf.",
+            "person drinking some water from a glass.",
+            "person takes a blanket from somewhere."
+        ],
+        "duration": 34.25
+    },
+    "BOOKV": {
+        "timestamps": [
+            [
+                22.3,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person sitting on the couch."
+        ],
+        "duration": 31.5
+    },
+    "2MGC1": {
+        "timestamps": [
+            [
+                23.2,
+                36.0
+            ],
+            [
+                3.6,
+                9.0
+            ]
+        ],
+        "sentences": [
+            "person pours something into a cup.",
+            "a person holding a bag opens their door."
+        ],
+        "duration": 35.375
+    },
+    "DVHIB": {
+        "timestamps": [
+            [
+                20.0,
+                27.6
+            ],
+            [
+                11.6,
+                19.2
+            ]
+        ],
+        "sentences": [
+            "person puts a sandwich.",
+            "person takes a book from a bag."
+        ],
+        "duration": 30.0625
+    },
+    "LQK90": {
+        "timestamps": [
+            [
+                22.9,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "person pours a drink into a cup."
+        ],
+        "duration": 30.6875
+    },
+    "AMIHY": {
+        "timestamps": [
+            [
+                18.4,
+                29.5
+            ],
+            [
+                0.0,
+                13.8
+            ]
+        ],
+        "sentences": [
+            "person takes it with a glass of water.",
+            "person eating a sandwich."
+        ],
+        "duration": 29.5625
+    },
+    "AB2V6": {
+        "timestamps": [
+            [
+                20.0,
+                25.2
+            ],
+            [
+                11.9,
+                17.3
+            ],
+            [
+                6.8,
+                13.5
+            ],
+            [
+                20.0,
+                25.2
+            ]
+        ],
+        "sentences": [
+            "person opens a laptop up.",
+            "person they stand up.",
+            "a person is on the sofa sneezing.",
+            "person opened the laptop computer."
+        ],
+        "duration": 30.375
+    },
+    "H1J19": {
+        "timestamps": [
+            [
+                17.8,
+                23.2
+            ],
+            [
+                17.8,
+                23.2
+            ]
+        ],
+        "sentences": [
+            "person they put down the food.",
+            "person put the food down on a nearby table."
+        ],
+        "duration": 30.625
+    },
+    "2U0QT": {
+        "timestamps": [
+            [
+                20.4,
+                25.1
+            ],
+            [
+                11.7,
+                17.1
+            ],
+            [
+                2.3,
+                7.2
+            ],
+            [
+                6.2,
+                11.9
+            ],
+            [
+                20.4,
+                25.1
+            ],
+            [
+                20.4,
+                25.1
+            ],
+            [
+                2.3,
+                7.2
+            ],
+            [
+                11.7,
+                17.1
+            ],
+            [
+                6.2,
+                11.9
+            ]
+        ],
+        "sentences": [
+            "person they close the cabinet.",
+            "person watch some television.",
+            "a person opens a cabinet next to a television.",
+            "person they take a glass of water.",
+            "person close the cabinet door.",
+            "person closes the door.",
+            "a person opens the cabinet door.",
+            "person watching television.",
+            "person takes a glass of water."
+        ],
+        "duration": 30.9375
+    },
+    "BVCCX": {
+        "timestamps": [
+            [
+                0.0,
+                6.2
+            ]
+        ],
+        "sentences": [
+            "a person is working on a laptop."
+        ],
+        "duration": 31.3125
+    },
+    "EWY6I": {
+        "timestamps": [
+            [
+                0.0,
+                10.2
+            ]
+        ],
+        "sentences": [
+            "a person drinks a cup of coffee."
+        ],
+        "duration": 24.125
+    },
+    "4JW8U": {
+        "timestamps": [
+            [
+                6.5,
+                12.6
+            ],
+            [
+                21.6,
+                32.0
+            ],
+            [
+                6.5,
+                12.6
+            ]
+        ],
+        "sentences": [
+            "person opens the door.",
+            "person put the towel down on the workbench.",
+            "person they open the door."
+        ],
+        "duration": 30.9375
+    },
+    "WM8QQ": {
+        "timestamps": [
+            [
+                23.7,
+                29.9
+            ],
+            [
+                1.4,
+                13.8
+            ],
+            [
+                0.0,
+                12.4
+            ],
+            [
+                1.4,
+                13.8
+            ]
+        ],
+        "sentences": [
+            "a person takes a bag of groceries into a kitchen.",
+            "person putting the bag on the table.",
+            "the person takes some of the food out.",
+            "person puts on the table."
+        ],
+        "duration": 34.1875
+    },
+    "ATIAW": {
+        "timestamps": [
+            [
+                27.3,
+                32.9
+            ],
+            [
+                27.3,
+                32.9
+            ]
+        ],
+        "sentences": [
+            "person turn on the light.",
+            "person turning on a light."
+        ],
+        "duration": 32.0
+    },
+    "1Y09V": {
+        "timestamps": [
+            [
+                4.5,
+                10.3
+            ],
+            [
+                4.5,
+                10.3
+            ]
+        ],
+        "sentences": [
+            "person drinking coffee from a cup.",
+            "a person drinks from a cup of coffee."
+        ],
+        "duration": 30.9375
+    },
+    "M8OYC": {
+        "timestamps": [
+            [
+                1.7,
+                11.5
+            ]
+        ],
+        "sentences": [
+            "a person walks in holding a bag of groceries."
+        ],
+        "duration": 33.9375
+    },
+    "E2EXR": {
+        "timestamps": [
+            [
+                16.1,
+                22.6
+            ],
+            [
+                16.1,
+                22.6
+            ]
+        ],
+        "sentences": [
+            "the person was drinking from a bottle.",
+            "person drinking something out of a bottle."
+        ],
+        "duration": 30.8125
+    },
+    "XOFEX": {
+        "timestamps": [
+            [
+                12.0,
+                17.2
+            ]
+        ],
+        "sentences": [
+            "person they put it down on the table."
+        ],
+        "duration": 29.9375
+    },
+    "AL1WC": {
+        "timestamps": [
+            [
+                0.0,
+                3.8
+            ]
+        ],
+        "sentences": [
+            "the person closes the door."
+        ],
+        "duration": 30.1875
+    },
+    "7WIKW": {
+        "timestamps": [
+            [
+                2.7,
+                11.1
+            ],
+            [
+                2.7,
+                11.1
+            ]
+        ],
+        "sentences": [
+            "person pours a glass of water.",
+            "person pours coffee into a glass."
+        ],
+        "duration": 44.625
+    },
+    "CBXI2": {
+        "timestamps": [
+            [
+                19.5,
+                25.0
+            ]
+        ],
+        "sentences": [
+            "person starts awakening due to loud noise from vacuum cleaner."
+        ],
+        "duration": 30.1875
+    },
+    "MSN1B": {
+        "timestamps": [
+            [
+                8.3,
+                14.7
+            ],
+            [
+                0.0,
+                6.9
+            ],
+            [
+                0.0,
+                9.9
+            ]
+        ],
+        "sentences": [
+            "person drink from a glass.",
+            "a laughing person awakens in their living room.",
+            "person holding a phone."
+        ],
+        "duration": 23.625
+    },
+    "D4D2T": {
+        "timestamps": [
+            [
+                13.9,
+                25.0
+            ],
+            [
+                9.4,
+                15.1
+            ],
+            [
+                13.9,
+                25.0
+            ],
+            [
+                2.8,
+                12.9
+            ]
+        ],
+        "sentences": [
+            "person eats a sandwich.",
+            "person takes some food out of a box.",
+            "person eats it.",
+            "person opens a box."
+        ],
+        "duration": 23.8125
+    },
+    "1US0H": {
+        "timestamps": [
+            [
+                5.8,
+                15.4
+            ],
+            [
+                15.5,
+                28.1
+            ],
+            [
+                5.8,
+                15.4
+            ]
+        ],
+        "sentences": [
+            "a person is sneezing into a wardrobe.",
+            "person fixes hair.",
+            "person sneezing into a towel."
+        ],
+        "duration": 30.0
+    },
+    "3XL0K": {
+        "timestamps": [
+            [
+                0.0,
+                5.5
+            ],
+            [
+                0.0,
+                5.5
+            ]
+        ],
+        "sentences": [
+            "a person closes the cabinet.",
+            "a person closes a cabinet door."
+        ],
+        "duration": 29.25
+    },
+    "DFD3T": {
+        "timestamps": [
+            [
+                0.0,
+                9.8
+            ]
+        ],
+        "sentences": [
+            "a person is throwing some clothes on the floor."
+        ],
+        "duration": 32.75
+    },
+    "4VCHD": {
+        "timestamps": [
+            [
+                7.3,
+                14.2
+            ],
+            [
+                7.7,
+                15.1
+            ],
+            [
+                0.0,
+                3.2
+            ],
+            [
+                5.8,
+                11.3
+            ]
+        ],
+        "sentences": [
+            "the person is eating.",
+            "person eating a sandwich.",
+            "a person opens the door to the recreation room.",
+            "the person sits in a chair."
+        ],
+        "duration": 35.375
+    },
+    "VEKTO": {
+        "timestamps": [
+            [
+                0.0,
+                7.0
+            ],
+            [
+                0.0,
+                7.0
+            ],
+            [
+                4.0,
+                10.0
+            ]
+        ],
+        "sentences": [
+            "the person puts a pair of shoes.",
+            "person they put the shoes.",
+            "person take a towel."
+        ],
+        "duration": 29.3125
+    },
+    "Y6MUU": {
+        "timestamps": [
+            [
+                30.5,
+                37.6
+            ]
+        ],
+        "sentences": [
+            "person open a door."
+        ],
+        "duration": 39.1875
+    },
+    "HJJ32": {
+        "timestamps": [
+            [
+                15.9,
+                21.0
+            ]
+        ],
+        "sentences": [
+            "person packing his bag thrown in the bed."
+        ],
+        "duration": 31.625
+    },
+    "6MJGP": {
+        "timestamps": [
+            [
+                0.0,
+                4.2
+            ]
+        ],
+        "sentences": [
+            "person opening a laptop."
+        ],
+        "duration": 26.4375
+    },
+    "FDPHZ": {
+        "timestamps": [
+            [
+                14.9,
+                21.0
+            ],
+            [
+                14.9,
+                21.0
+            ]
+        ],
+        "sentences": [
+            "person turns off a light.",
+            "person turns off the light."
+        ],
+        "duration": 30.8125
+    },
+    "TDAY1": {
+        "timestamps": [
+            [
+                0.0,
+                16.6
+            ],
+            [
+                23.4,
+                35.0
+            ]
+        ],
+        "sentences": [
+            "person working on a laptop.",
+            "person stand up from the laying position."
+        ],
+        "duration": 34.4375
+    },
+    "D9F5V": {
+        "timestamps": [
+            [
+                18.1,
+                23.5
+            ]
+        ],
+        "sentences": [
+            "person takes a bottle."
+        ],
+        "duration": 30.1875
+    },
+    "Z7QTA": {
+        "timestamps": [
+            [
+                14.7,
+                23.2
+            ]
+        ],
+        "sentences": [
+            "person box are put on a table in the closet."
+        ],
+        "duration": 26.9375
+    },
+    "SY1JE": {
+        "timestamps": [
+            [
+                10.5,
+                17.2
+            ]
+        ],
+        "sentences": [
+            "the person walks out of the room through a doorway."
+        ],
+        "duration": 17.25
+    },
+    "FR4K2": {
+        "timestamps": [
+            [
+                23.4,
+                30.1
+            ],
+            [
+                13.1,
+                22.2
+            ]
+        ],
+        "sentences": [
+            "person opens their laptop.",
+            "the person washes their hands in the sink."
+        ],
+        "duration": 31.8125
+    },
+    "MNEQ4": {
+        "timestamps": [
+            [
+                17.8,
+                24.6
+            ]
+        ],
+        "sentences": [
+            "the person takes a blanket from a nearby chair."
+        ],
+        "duration": 31.6875
+    },
+    "ZC59Y": {
+        "timestamps": [
+            [
+                2.8,
+                10.2
+            ]
+        ],
+        "sentences": [
+            "a person is opening a book."
+        ],
+        "duration": 34.1875
+    },
+    "W65SM": {
+        "timestamps": [
+            [
+                5.7,
+                16.2
+            ]
+        ],
+        "sentences": [
+            "a person is sitting a pouring water into a glass."
+        ],
+        "duration": 36.125
+    },
+    "XPDI1": {
+        "timestamps": [
+            [
+                2.0,
+                9.0
+            ],
+            [
+                2.0,
+                9.0
+            ]
+        ],
+        "sentences": [
+            "this person runs into the room with a cup.",
+            "person running through the doorway."
+        ],
+        "duration": 29.4375
+    },
+    "UNQD7": {
+        "timestamps": [
+            [
+                21.5,
+                33.0
+            ],
+            [
+                0.3,
+                7.6
+            ]
+        ],
+        "sentences": [
+            "another person is holding a box.",
+            "a person closes a wardrobe door."
+        ],
+        "duration": 32.125
+    },
+    "8NJD2": {
+        "timestamps": [
+            [
+                18.3,
+                26.4
+            ],
+            [
+                0.9,
+                7.0
+            ],
+            [
+                0.9,
+                7.0
+            ]
+        ],
+        "sentences": [
+            "person closes the door.",
+            "a person opens a large cabinet to get a broom.",
+            "person opens closet."
+        ],
+        "duration": 25.75
+    },
+    "E3S4O": {
+        "timestamps": [
+            [
+                18.8,
+                32.0
+            ],
+            [
+                18.8,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person turns on light.",
+            "person plays with the light switch."
+        ],
+        "duration": 31.125
+    },
+    "279W6": {
+        "timestamps": [
+            [
+                3.4,
+                10.8
+            ],
+            [
+                3.4,
+                10.8
+            ],
+            [
+                3.4,
+                10.8
+            ]
+        ],
+        "sentences": [
+            "person snuggling up to a pillow.",
+            "person snuggles with a pillow.",
+            "person snuggling with a pillow."
+        ],
+        "duration": 31.625
+    },
+    "P5YNX": {
+        "timestamps": [
+            [
+                0.0,
+                13.1
+            ],
+            [
+                0.0,
+                13.1
+            ],
+            [
+                0.0,
+                12.7
+            ]
+        ],
+        "sentences": [
+            "a person is sitting in the chair on their laptop.",
+            "a person is sitting in a chair.",
+            "person working on their laptop."
+        ],
+        "duration": 29.75
+    },
+    "47532": {
+        "timestamps": [
+            [
+                17.4,
+                23.6
+            ]
+        ],
+        "sentences": [
+            "person looking at a picture."
+        ],
+        "duration": 29.5
+    },
+    "93ESZ": {
+        "timestamps": [
+            [
+                5.6,
+                12.1
+            ]
+        ],
+        "sentences": [
+            "person dresses up by the door."
+        ],
+        "duration": 29.3125
+    },
+    "P5ANU": {
+        "timestamps": [
+            [
+                20.9,
+                27.1
+            ]
+        ],
+        "sentences": [
+            "person pouring a cup of coffee."
+        ],
+        "duration": 28.5
+    },
+    "QHNTC": {
+        "timestamps": [
+            [
+                18.1,
+                28.7
+            ]
+        ],
+        "sentences": [
+            "the person puts the laptop on a table."
+        ],
+        "duration": 30.125
+    },
+    "2C2AI": {
+        "timestamps": [
+            [
+                6.5,
+                13.5
+            ]
+        ],
+        "sentences": [
+            "person they start sneezing."
+        ],
+        "duration": 30.8125
+    },
+    "38BDO": {
+        "timestamps": [
+            [
+                25.8,
+                34.0
+            ],
+            [
+                25.8,
+                34.0
+            ],
+            [
+                20.3,
+                34.0
+            ],
+            [
+                20.3,
+                34.0
+            ],
+            [
+                20.3,
+                34.0
+            ]
+        ],
+        "sentences": [
+            "person put it on a shelf.",
+            "person puts it on a shelf.",
+            "person they put a blanket in a box.",
+            "person puts a blanket in a box.",
+            "person puts a folded blanket in a box."
+        ],
+        "duration": 33.625
+    },
+    "VLE11": {
+        "timestamps": [
+            [
+                22.2,
+                29.7
+            ]
+        ],
+        "sentences": [
+            "person open up their homework book."
+        ],
+        "duration": 33.25
+    },
+    "16KTS": {
+        "timestamps": [
+            [
+                20.7,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "the person opens up the refrigerator to look for something."
+        ],
+        "duration": 30.5
+    },
+    "EG0IU": {
+        "timestamps": [
+            [
+                10.8,
+                16.1
+            ]
+        ],
+        "sentences": [
+            "person turning off the light."
+        ],
+        "duration": 28.5
+    },
+    "ORD96": {
+        "timestamps": [
+            [
+                0.0,
+                12.3
+            ]
+        ],
+        "sentences": [
+            "a person is holding a pillow."
+        ],
+        "duration": 30.5
+    },
+    "HRR0X": {
+        "timestamps": [
+            [
+                0.0,
+                11.3
+            ],
+            [
+                20.0,
+                25.1
+            ],
+            [
+                14.1,
+                20.8
+            ],
+            [
+                21.5,
+                27.0
+            ],
+            [
+                14.1,
+                20.8
+            ],
+            [
+                9.4,
+                16.5
+            ],
+            [
+                9.4,
+                16.5
+            ]
+        ],
+        "sentences": [
+            "a person is sitting in a chair.",
+            "person take a bite of some food.",
+            "person hits a light switch.",
+            "person eat an apple.",
+            "person they turn on a light.",
+            "person holding a book.",
+            "a person awakens in their dining room holding a book."
+        ],
+        "duration": 25.875
+    },
+    "0RI7C": {
+        "timestamps": [
+            [
+                2.5,
+                7.5
+            ],
+            [
+                0.0,
+                7.0
+            ]
+        ],
+        "sentences": [
+            "person hey close the book.",
+            "a person is sitting in the bathroom reading a book."
+        ],
+        "duration": 31.375
+    },
+    "31TDO": {
+        "timestamps": [
+            [
+                12.6,
+                29.1
+            ],
+            [
+                37.4,
+                49.7
+            ],
+            [
+                12.6,
+                29.1
+            ],
+            [
+                37.4,
+                49.7
+            ],
+            [
+                9.0,
+                32.7
+            ],
+            [
+                12.6,
+                29.1
+            ]
+        ],
+        "sentences": [
+            "person turns on light.",
+            "person sits down at the table.",
+            "person turns on the light.",
+            "person sits down at a table.",
+            "person eats some food.",
+            "the person turns on the light."
+        ],
+        "duration": 59.75
+    },
+    "5D351": {
+        "timestamps": [
+            [
+                23.3,
+                29.4
+            ],
+            [
+                23.3,
+                29.4
+            ]
+        ],
+        "sentences": [
+            "person throw their shoes on the floor.",
+            "person throw the shoes."
+        ],
+        "duration": 29.75
+    },
+    "E2EHR": {
+        "timestamps": [
+            [
+                0.0,
+                3.9
+            ]
+        ],
+        "sentences": [
+            "a person is eating a sandwich."
+        ],
+        "duration": 27.0625
+    },
+    "Z6B6S": {
+        "timestamps": [
+            [
+                9.9,
+                18.2
+            ]
+        ],
+        "sentences": [
+            "person putting the food back on the shelf."
+        ],
+        "duration": 30.125
+    },
+    "LHMMJ": {
+        "timestamps": [
+            [
+                0.0,
+                9.3
+            ]
+        ],
+        "sentences": [
+            "a person sits in a chair in the kitchen."
+        ],
+        "duration": 25.625
+    },
+    "IR7CA": {
+        "timestamps": [
+            [
+                2.7,
+                13.2
+            ]
+        ],
+        "sentences": [
+            "person they begin sneezing."
+        ],
+        "duration": 30.4375
+    },
+    "HOYUT": {
+        "timestamps": [
+            [
+                11.8,
+                17.5
+            ]
+        ],
+        "sentences": [
+            "person closes the pantry door."
+        ],
+        "duration": 30.5
+    },
+    "35C4E": {
+        "timestamps": [
+            [
+                21.6,
+                30.8
+            ],
+            [
+                21.6,
+                30.8
+            ],
+            [
+                21.6,
+                30.8
+            ]
+        ],
+        "sentences": [
+            "person opened the door.",
+            "person opens the door.",
+            "person they open the door."
+        ],
+        "duration": 38.6875
+    },
+    "XSS0J": {
+        "timestamps": [
+            [
+                22.4,
+                31.7
+            ],
+            [
+                22.4,
+                31.7
+            ]
+        ],
+        "sentences": [
+            "person open a laptop.",
+            "the person opens their laptop."
+        ],
+        "duration": 31.1875
+    },
+    "UIHDF": {
+        "timestamps": [
+            [
+                7.5,
+                13.8
+            ],
+            [
+                7.5,
+                13.8
+            ],
+            [
+                0.0,
+                4.3
+            ],
+            [
+                0.0,
+                4.3
+            ]
+        ],
+        "sentences": [
+            "a person opens a door.",
+            "person opens the door.",
+            "a person is standing in the doorway smiling.",
+            "person smiling into the camera."
+        ],
+        "duration": 30.4375
+    },
+    "AGGSE": {
+        "timestamps": [
+            [
+                8.9,
+                15.0
+            ]
+        ],
+        "sentences": [
+            "the person is sneezing."
+        ],
+        "duration": 28.25
+    },
+    "1T2W4": {
+        "timestamps": [
+            [
+                22.5,
+                28.0
+            ],
+            [
+                22.5,
+                28.0
+            ]
+        ],
+        "sentences": [
+            "person throws clothes into a washing machine.",
+            "person throw clothes in the washer."
+        ],
+        "duration": 27.5625
+    },
+    "999BP": {
+        "timestamps": [
+            [
+                2.1,
+                7.7
+            ],
+            [
+                24.4,
+                31.2
+            ]
+        ],
+        "sentences": [
+            "person a girl takes a bag.",
+            "person puts it on the table."
+        ],
+        "duration": 32.75
+    },
+    "7JTEK": {
+        "timestamps": [
+            [
+                18.3,
+                24.8
+            ]
+        ],
+        "sentences": [
+            "person laughing as they cook at the stove."
+        ],
+        "duration": 35.4375
+    },
+    "AMT7R": {
+        "timestamps": [
+            [
+                4.3,
+                12.5
+            ]
+        ],
+        "sentences": [
+            "a person is putting a picture onto the wall."
+        ],
+        "duration": 30.25
+    },
+    "NVF2S": {
+        "timestamps": [
+            [
+                16.5,
+                25.0
+            ],
+            [
+                16.5,
+                25.0
+            ]
+        ],
+        "sentences": [
+            "person take the medicine.",
+            "person they take a medicine bottle from the table."
+        ],
+        "duration": 31.125
+    },
+    "D0V0Y": {
+        "timestamps": [
+            [
+                22.5,
+                30.0
+            ],
+            [
+                6.2,
+                12.0
+            ],
+            [
+                14.5,
+                20.5
+            ],
+            [
+                14.5,
+                20.5
+            ],
+            [
+                14.5,
+                20.5
+            ],
+            [
+                25.3,
+                35.0
+            ],
+            [
+                26.0,
+                35.0
+            ],
+            [
+                26.0,
+                35.0
+            ]
+        ],
+        "sentences": [
+            "person this they sit in a chair.",
+            "a person walks through a doorway.",
+            "person turns on the light.",
+            "person turn on a light.",
+            "person turns on a light.",
+            "person takes off a shoe.",
+            "person puts another shoe on.",
+            "person begin to put on their shoes."
+        ],
+        "duration": 34.0625
+    },
+    "5F1AW": {
+        "timestamps": [
+            [
+                0.0,
+                5.4
+            ],
+            [
+                0.0,
+                5.4
+            ]
+        ],
+        "sentences": [
+            "a person puts a book down onto the shelf.",
+            "the person puts a book on the shelf."
+        ],
+        "duration": 31.0625
+    },
+    "NACLT": {
+        "timestamps": [
+            [
+                12.6,
+                21.0
+            ],
+            [
+                6.4,
+                12.2
+            ]
+        ],
+        "sentences": [
+            "person runs out.",
+            "person puts the shoes under the table."
+        ],
+        "duration": 20.625
+    },
+    "ARWNX": {
+        "timestamps": [
+            [
+                5.2,
+                11.5
+            ]
+        ],
+        "sentences": [
+            "a person is in the kitchen putting a box down."
+        ],
+        "duration": 30.75
+    },
+    "RVVDR": {
+        "timestamps": [
+            [
+                7.9,
+                15.0
+            ],
+            [
+                3.7,
+                12.6
+            ],
+            [
+                0.0,
+                13.8
+            ],
+            [
+                0.5,
+                11.0
+            ],
+            [
+                0.0,
+                11.6
+            ]
+        ],
+        "sentences": [
+            "person puts the bag on the table.",
+            "person putting it on a table.",
+            "a person was holding a bag which he.",
+            "a person is putting groceries in a bag.",
+            "a person opens a bag."
+        ],
+        "duration": 30.0
+    },
+    "OTLX9": {
+        "timestamps": [
+            [
+                0.0,
+                10.4
+            ]
+        ],
+        "sentences": [
+            "the person is dressing in the living room."
+        ],
+        "duration": 31.3125
+    },
+    "DM2XL": {
+        "timestamps": [
+            [
+                15.4,
+                20.9
+            ],
+            [
+                15.4,
+                20.9
+            ]
+        ],
+        "sentences": [
+            "person opens the front door.",
+            "person opening a door."
+        ],
+        "duration": 22.5625
+    },
+    "UR5TU": {
+        "timestamps": [
+            [
+                0.4,
+                7.4
+            ],
+            [
+                20.2,
+                27.1
+            ],
+            [
+                0.4,
+                7.4
+            ],
+            [
+                20.2,
+                27.1
+            ],
+            [
+                0.8,
+                7.7
+            ],
+            [
+                20.2,
+                27.1
+            ],
+            [
+                0.8,
+                7.7
+            ],
+            [
+                0.4,
+                7.4
+            ]
+        ],
+        "sentences": [
+            "a person opens a pantry door.",
+            "person closes the cabinet door.",
+            "person a girl opens the pantry door.",
+            "the person closes the door.",
+            "a person opens a closet.",
+            "person closes the door.",
+            "person opens a cabinet in the pantry.",
+            "the person opens up a pantry door holding some clothing."
+        ],
+        "duration": 32.75
+    },
+    "VE5DN": {
+        "timestamps": [
+            [
+                19.5,
+                28.6
+            ],
+            [
+                20.0,
+                29.2
+            ],
+            [
+                28.2,
+                34.0
+            ],
+            [
+                19.4,
+                31.0
+            ],
+            [
+                1.4,
+                11.8
+            ]
+        ],
+        "sentences": [
+            "person opens a cabinet.",
+            "person put the pillow away in a cabinet.",
+            "person begin sneezing by the stove.",
+            "person put it on a shelf.",
+            "a person awakens on a floor lying on a pillow."
+        ],
+        "duration": 32.75
+    },
+    "LKYCT": {
+        "timestamps": [
+            [
+                10.3,
+                24.8
+            ],
+            [
+                22.6,
+                31.0
+            ],
+            [
+                22.6,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "person eating a sandwich.",
+            "person drink a glass of water.",
+            "person drinking a glass of milk."
+        ],
+        "duration": 30.5
+    },
+    "UBVV7": {
+        "timestamps": [
+            [
+                9.9,
+                18.4
+            ],
+            [
+                19.2,
+                27.1
+            ],
+            [
+                12.5,
+                25.6
+            ],
+            [
+                23.9,
+                35.7
+            ],
+            [
+                12.5,
+                25.6
+            ],
+            [
+                19.2,
+                27.1
+            ]
+        ],
+        "sentences": [
+            "person takes some food out of a bag.",
+            "person puts box in closet.",
+            "person eats small food item.",
+            "person takes the box.",
+            "person eats it.",
+            "person closes box."
+        ],
+        "duration": 37.3125
+    },
+    "GQ341": {
+        "timestamps": [
+            [
+                0.8,
+                5.2
+            ],
+            [
+                6.0,
+                14.1
+            ],
+            [
+                0.8,
+                5.2
+            ]
+        ],
+        "sentences": [
+            "person pours a cup of coffee.",
+            "laughs as the person looks at photos loaded onto it.",
+            "the person pours a cup of coffee."
+        ],
+        "duration": 31.0625
+    },
+    "IEXTB": {
+        "timestamps": [
+            [
+                3.4,
+                13.0
+            ]
+        ],
+        "sentences": [
+            "person laughing at a picture hanging on the wall."
+        ],
+        "duration": 32.625
+    },
+    "3YNPY": {
+        "timestamps": [
+            [
+                2.6,
+                7.1
+            ],
+            [
+                8.4,
+                15.0
+            ],
+            [
+                2.6,
+                7.1
+            ]
+        ],
+        "sentences": [
+            "the person puts a towel on a shelf.",
+            "person sits down in a chair.",
+            "a person puts a towel onto the shelf."
+        ],
+        "duration": 14.125
+    },
+    "95HQC": {
+        "timestamps": [
+            [
+                2.3,
+                11.3
+            ]
+        ],
+        "sentences": [
+            "a person is undressing."
+        ],
+        "duration": 30.0625
+    },
+    "D740L": {
+        "timestamps": [
+            [
+                11.6,
+                21.4
+            ],
+            [
+                1.3,
+                10.1
+            ],
+            [
+                26.4,
+                31.5
+            ]
+        ],
+        "sentences": [
+            "person opens bag.",
+            "person takes clothes out.",
+            "person throws empty bag on floor."
+        ],
+        "duration": 31.875
+    },
+    "F3M1Q": {
+        "timestamps": [
+            [
+                9.4,
+                16.4
+            ],
+            [
+                0.7,
+                6.0
+            ],
+            [
+                0.0,
+                3.5
+            ],
+            [
+                9.4,
+                16.4
+            ],
+            [
+                0.0,
+                3.5
+            ]
+        ],
+        "sentences": [
+            "person taking a drink out of a cup.",
+            "person throws them on the floor.",
+            "a person takes off their shoes.",
+            "person takes a drink from a glass nearby.",
+            "a person takes their shoes off in the kitchen."
+        ],
+        "duration": 16.25
+    },
+    "YQSN8": {
+        "timestamps": [
+            [
+                3.4,
+                13.8
+            ],
+            [
+                3.4,
+                13.8
+            ],
+            [
+                23.4,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "another person is closing a window.",
+            "another person closses the window.",
+            "the other person looks at the window."
+        ],
+        "duration": 31.125
+    },
+    "6N4BD": {
+        "timestamps": [
+            [
+                1.7,
+                18.0
+            ],
+            [
+                22.3,
+                34.0
+            ],
+            [
+                22.3,
+                34.0
+            ],
+            [
+                22.3,
+                34.0
+            ],
+            [
+                14.5,
+                25.1
+            ]
+        ],
+        "sentences": [
+            "a person is awakening from laying down on the floor.",
+            "person begin eating some unhealthy snack food from it.",
+            "person eat from a grocery bag.",
+            "person eats something.",
+            "person they open the bag."
+        ],
+        "duration": 33.375
+    },
+    "ENQUT": {
+        "timestamps": [
+            [
+                26.8,
+                38.4
+            ],
+            [
+                5.0,
+                11.2
+            ],
+            [
+                26.8,
+                38.4
+            ],
+            [
+                36.8,
+                41.0
+            ]
+        ],
+        "sentences": [
+            "the person takes off their shoes.",
+            "a person is washing their hands.",
+            "person they take their shoes off.",
+            "person throws them on the floor underneath the table."
+        ],
+        "duration": 40.3125
+    },
+    "QCBIG": {
+        "timestamps": [
+            [
+                0.0,
+                13.4
+            ],
+            [
+                13.7,
+                22.6
+            ]
+        ],
+        "sentences": [
+            "a person is in a garage snuggling a blanket.",
+            "person start to undress by the doorway."
+        ],
+        "duration": 30.9375
+    },
+    "AYZS4": {
+        "timestamps": [
+            [
+                4.2,
+                17.9
+            ],
+            [
+                4.2,
+                17.9
+            ],
+            [
+                4.2,
+                17.9
+            ],
+            [
+                0.0,
+                8.2
+            ],
+            [
+                14.9,
+                26.3
+            ],
+            [
+                0.0,
+                8.2
+            ],
+            [
+                4.2,
+                17.9
+            ]
+        ],
+        "sentences": [
+            "a person is eating.",
+            "a person eats a banana.",
+            "person eating a banana.",
+            "person sitting down at a kitchen tables.",
+            "person tidy up the table.",
+            "the person is sitting at a table peeling.",
+            "person eats it."
+        ],
+        "duration": 49.75
+    },
+    "P3CLM": {
+        "timestamps": [
+            [
+                29.1,
+                41.0
+            ],
+            [
+                29.1,
+                41.0
+            ]
+        ],
+        "sentences": [
+            "person close the book.",
+            "person they close the book."
+        ],
+        "duration": 41.8125
+    },
+    "FVPMC": {
+        "timestamps": [
+            [
+                25.2,
+                32.2
+            ],
+            [
+                25.2,
+                31.3
+            ],
+            [
+                14.6,
+                22.3
+            ],
+            [
+                0.0,
+                14.7
+            ],
+            [
+                0.0,
+                6.2
+            ],
+            [
+                25.2,
+                32.2
+            ],
+            [
+                19.0,
+                27.9
+            ]
+        ],
+        "sentences": [
+            "person eats a sandwich.",
+            "person starts eating.",
+            "a person is putting a broom inside the pantry door.",
+            "a person holds a broom.",
+            "person opens the doors of the cabinet.",
+            "person eats the sandwich.",
+            "person closes the cabinet doors."
+        ],
+        "duration": 35.375
+    },
+    "YKT8I": {
+        "timestamps": [
+            [
+                0.0,
+                4.7
+            ],
+            [
+                0.0,
+                4.7
+            ]
+        ],
+        "sentences": [
+            "a person opens the door to the bathroom.",
+            "a person opens the door."
+        ],
+        "duration": 10.5
+    },
+    "TIWRY": {
+        "timestamps": [
+            [
+                18.2,
+                27.0
+            ],
+            [
+                20.0,
+                27.0
+            ]
+        ],
+        "sentences": [
+            "person they wash the glass.",
+            "person begins to wash dishes."
+        ],
+        "duration": 26.625
+    },
+    "FWQYI": {
+        "timestamps": [
+            [
+                30.0,
+                40.0
+            ]
+        ],
+        "sentences": [
+            "person tidying up a shelf."
+        ],
+        "duration": 39.125
+    },
+    "SBG5F": {
+        "timestamps": [
+            [
+                6.0,
+                16.4
+            ],
+            [
+                6.0,
+                16.4
+            ]
+        ],
+        "sentences": [
+            "a person is pouring water into a glass.",
+            "person pours it into a glass on a table."
+        ],
+        "duration": 32.0625
+    },
+    "J84TZ": {
+        "timestamps": [
+            [
+                0.0,
+                6.5
+            ],
+            [
+                16.2,
+                21.0
+            ],
+            [
+                16.2,
+                21.0
+            ]
+        ],
+        "sentences": [
+            "a person is awakening on a couch.",
+            "person walk to the doorway.",
+            "person walks through a doorway."
+        ],
+        "duration": 20.0625
+    },
+    "96ATI": {
+        "timestamps": [
+            [
+                5.8,
+                15.9
+            ]
+        ],
+        "sentences": [
+            "a person is sneezing."
+        ],
+        "duration": 34.0625
+    },
+    "V00AL": {
+        "timestamps": [
+            [
+                0.0,
+                7.4
+            ],
+            [
+                13.7,
+                19.4
+            ]
+        ],
+        "sentences": [
+            "a person talks on the phone.",
+            "person laying down smiling on phone."
+        ],
+        "duration": 20.8125
+    },
+    "WDCGH": {
+        "timestamps": [
+            [
+                0.0,
+                3.8
+            ]
+        ],
+        "sentences": [
+            "person reading a book."
+        ],
+        "duration": 30.75
+    },
+    "Q4932": {
+        "timestamps": [
+            [
+                0.0,
+                4.5
+            ],
+            [
+                0.0,
+                4.5
+            ],
+            [
+                0.0,
+                4.5
+            ],
+            [
+                7.4,
+                14.8
+            ]
+        ],
+        "sentences": [
+            "person throws blanket on bed.",
+            "the person throws a blanket on the bed.",
+            "a person is throwing a blanket on the bed.",
+            "person starts eating & laughing."
+        ],
+        "duration": 31.4375
+    },
+    "O1ILB": {
+        "timestamps": [
+            [
+                12.4,
+                18.0
+            ],
+            [
+                12.4,
+                18.0
+            ],
+            [
+                12.4,
+                18.0
+            ],
+            [
+                12.4,
+                18.0
+            ]
+        ],
+        "sentences": [
+            "person runs out.",
+            "a person runs into the garage.",
+            "a person comes running into the garage.",
+            "person runs back out."
+        ],
+        "duration": 26.625
+    },
+    "E06A2": {
+        "timestamps": [
+            [
+                4.0,
+                13.1
+            ]
+        ],
+        "sentences": [
+            "person begins sneezing."
+        ],
+        "duration": 31.375
+    },
+    "803H6": {
+        "timestamps": [
+            [
+                6.3,
+                12.3
+            ],
+            [
+                6.3,
+                12.3
+            ],
+            [
+                11.0,
+                15.9
+            ],
+            [
+                6.3,
+                12.3
+            ]
+        ],
+        "sentences": [
+            "opens the window another person comes in.",
+            "person opens a cabinet door.",
+            "person throws a pillow around complaining about the pillow.",
+            "a person is opening a window."
+        ],
+        "duration": 30.9375
+    },
+    "1LSEQ": {
+        "timestamps": [
+            [
+                6.7,
+                11.5
+            ]
+        ],
+        "sentences": [
+            "person puts the glass on a table."
+        ],
+        "duration": 27.375
+    },
+    "5X6S7": {
+        "timestamps": [
+            [
+                1.6,
+                7.9
+            ],
+            [
+                0.0,
+                14.3
+            ]
+        ],
+        "sentences": [
+            "person sitting down laughing at their desk.",
+            "a person is sitting in a chair smiling."
+        ],
+        "duration": 33.0625
+    },
+    "5GG5W": {
+        "timestamps": [
+            [
+                0.0,
+                8.0
+            ],
+            [
+                0.0,
+                8.2
+            ]
+        ],
+        "sentences": [
+            "a person opens a door to a wardrobe.",
+            "a person opens a closet."
+        ],
+        "duration": 29.0625
+    },
+    "I7DGO": {
+        "timestamps": [
+            [
+                20.2,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person takes a shot of medicine."
+        ],
+        "duration": 30.9375
+    },
+    "MV9N4": {
+        "timestamps": [
+            [
+                3.7,
+                8.8
+            ]
+        ],
+        "sentences": [
+            "person opens the refrigerator."
+        ],
+        "duration": 29.125
+    },
+    "99596": {
+        "timestamps": [
+            [
+                35.1,
+                42.4
+            ],
+            [
+                28.2,
+                39.5
+            ],
+            [
+                14.6,
+                30.4
+            ]
+        ],
+        "sentences": [
+            "person stand up.",
+            "person begin dressing.",
+            "a person is awakening under a blanket."
+        ],
+        "duration": 44.5
+    },
+    "186EF": {
+        "timestamps": [
+            [
+                0.0,
+                7.9
+            ],
+            [
+                0.0,
+                7.9
+            ]
+        ],
+        "sentences": [
+            "the person is holding a broom.",
+            "a person holds a broom."
+        ],
+        "duration": 16.875
+    },
+    "PCNUP": {
+        "timestamps": [
+            [
+                4.3,
+                9.7
+            ],
+            [
+                4.3,
+                9.7
+            ],
+            [
+                4.3,
+                9.7
+            ],
+            [
+                13.5,
+                25.0
+            ],
+            [
+                0.0,
+                9.1
+            ],
+            [
+                2.0,
+                7.1
+            ]
+        ],
+        "sentences": [
+            "person puts down a picture.",
+            "person puts the picture on the floor.",
+            "the person puts the picture down.",
+            "person starts smiling.",
+            "a person is holding a picture.",
+            "a person turns on the light."
+        ],
+        "duration": 23.75
+    },
+    "6AJX0": {
+        "timestamps": [
+            [
+                1.1,
+                6.5
+            ],
+            [
+                7.8,
+                13.2
+            ],
+            [
+                7.8,
+                13.2
+            ]
+        ],
+        "sentences": [
+            "a person opens a door.",
+            "person closes the door back.",
+            "person close the door of the pantry."
+        ],
+        "duration": 20.1875
+    },
+    "UU5XI": {
+        "timestamps": [
+            [
+                27.2,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "person walks through the doorway."
+        ],
+        "duration": 30.5
+    },
+    "OM2NF": {
+        "timestamps": [
+            [
+                23.7,
+                34.8
+            ],
+            [
+                2.2,
+                8.8
+            ],
+            [
+                23.7,
+                34.8
+            ],
+            [
+                34.1,
+                45.0
+            ],
+            [
+                34.1,
+                45.0
+            ],
+            [
+                23.7,
+                34.8
+            ]
+        ],
+        "sentences": [
+            "person puts his shoes on.",
+            "person drinking coffee from a glass.",
+            "person he puts on his shoes.",
+            "person walks to the stove to cook breakfast.",
+            "person walks to cook at the oven.",
+            "person puts on shoes."
+        ],
+        "duration": 44.125
+    },
+    "ACAK4": {
+        "timestamps": [
+            [
+                18.7,
+                24.6
+            ],
+            [
+                13.6,
+                22.1
+            ],
+            [
+                0.0,
+                13.2
+            ]
+        ],
+        "sentences": [
+            "person begin sneezing.",
+            "the person takes a towel from a chair.",
+            "a person sits at a table working on their laptop."
+        ],
+        "duration": 29.8125
+    },
+    "8ASRQ": {
+        "timestamps": [
+            [
+                12.0,
+                17.0
+            ]
+        ],
+        "sentences": [
+            "person throwing a book."
+        ],
+        "duration": 18.3125
+    },
+    "0F7LW": {
+        "timestamps": [
+            [
+                0.8,
+                8.1
+            ],
+            [
+                12.6,
+                19.5
+            ],
+            [
+                25.0,
+                31.0
+            ],
+            [
+                25.0,
+                31.0
+            ],
+            [
+                12.6,
+                19.5
+            ],
+            [
+                0.0,
+                4.6
+            ],
+            [
+                12.6,
+                19.5
+            ]
+        ],
+        "sentences": [
+            "person opens a closet door.",
+            "person takes down a toy laptop.",
+            "person turns off the light.",
+            "person turning off the light behind them.",
+            "a person takes a laptop from a closet shelf.",
+            "a person runs into the closet.",
+            "person takes a laptop from the shelf."
+        ],
+        "duration": 30.625
+    },
+    "W0QSB": {
+        "timestamps": [
+            [
+                0.0,
+                14.4
+            ]
+        ],
+        "sentences": [
+            "a person is cooking on a stove."
+        ],
+        "duration": 34.125
+    },
+    "GV40M": {
+        "timestamps": [
+            [
+                5.3,
+                11.8
+            ],
+            [
+                5.3,
+                11.8
+            ]
+        ],
+        "sentences": [
+            "person is awakening in bed by window.",
+            "a person is awakening."
+        ],
+        "duration": 23.8125
+    },
+    "XBRO4": {
+        "timestamps": [
+            [
+                24.7,
+                30.1
+            ],
+            [
+                24.7,
+                30.1
+            ]
+        ],
+        "sentences": [
+            "person runs out of the study with a glass.",
+            "person run out of the room."
+        ],
+        "duration": 30.6875
+    },
+    "X06Z6": {
+        "timestamps": [
+            [
+                14.9,
+                24.0
+            ]
+        ],
+        "sentences": [
+            "person they look out the window."
+        ],
+        "duration": 23.4375
+    },
+    "QQMY8": {
+        "timestamps": [
+            [
+                6.3,
+                11.7
+            ],
+            [
+                0.8,
+                5.4
+            ],
+            [
+                0.8,
+                5.4
+            ],
+            [
+                0.8,
+                5.4
+            ],
+            [
+                9.8,
+                14.0
+            ]
+        ],
+        "sentences": [
+            "person takes a glass off of a table.",
+            "the person turns on a light.",
+            "person turns out the light in the closet.",
+            "person turning on a light.",
+            "person grabs a cup turns off the light."
+        ],
+        "duration": 13.375
+    },
+    "N93LD": {
+        "timestamps": [
+            [
+                16.6,
+                27.9
+            ],
+            [
+                16.0,
+                20.9
+            ]
+        ],
+        "sentences": [
+            "person put the laptop down.",
+            "the person closes their laptop."
+        ],
+        "duration": 27.3125
+    },
+    "ZI2XH": {
+        "timestamps": [
+            [
+                12.1,
+                17.6
+            ]
+        ],
+        "sentences": [
+            "a person is putting a book on the shelf."
+        ],
+        "duration": 30.875
+    },
+    "M02OO": {
+        "timestamps": [
+            [
+                0.0,
+                4.9
+            ]
+        ],
+        "sentences": [
+            "another person is laughing in a doorway."
+        ],
+        "duration": 27.5
+    },
+    "FB3ZG": {
+        "timestamps": [
+            [
+                4.5,
+                9.2
+            ]
+        ],
+        "sentences": [
+            "person takes a cup of coffee."
+        ],
+        "duration": 19.625
+    },
+    "RF00I": {
+        "timestamps": [
+            [
+                18.4,
+                42.8
+            ]
+        ],
+        "sentences": [
+            "person talking on the phone."
+        ],
+        "duration": 102.0
+    },
+    "65M4K": {
+        "timestamps": [
+            [
+                20.5,
+                32.0
+            ],
+            [
+                0.0,
+                5.4
+            ],
+            [
+                20.5,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person getting food out cooking the food on the table.",
+            "person walking in the room open a refrigerator.",
+            "a person is cooking at a stove."
+        ],
+        "duration": 31.3125
+    },
+    "QTRIN": {
+        "timestamps": [
+            [
+                25.1,
+                32.0
+            ],
+            [
+                25.1,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person holding a pillow opens the door.",
+            "person opened a door."
+        ],
+        "duration": 30.875
+    },
+    "DAA3F": {
+        "timestamps": [
+            [
+                24.8,
+                29.3
+            ],
+            [
+                18.1,
+                27.2
+            ],
+            [
+                24.8,
+                29.3
+            ],
+            [
+                18.1,
+                27.2
+            ],
+            [
+                11.5,
+                17.4
+            ]
+        ],
+        "sentences": [
+            "person begin to eat it.",
+            "a person is awakening in the bedroom by the window.",
+            "person began eating from it.",
+            "a person covered with a blanket awakens in bed.",
+            "person take some food."
+        ],
+        "duration": 32.1875
+    },
+    "L8FFR": {
+        "timestamps": [
+            [
+                21.5,
+                31.1
+            ]
+        ],
+        "sentences": [
+            "person take a blanket from a chair."
+        ],
+        "duration": 31.375
+    },
+    "TDGNE": {
+        "timestamps": [
+            [
+                3.5,
+                8.6
+            ],
+            [
+                22.9,
+                29.0
+            ]
+        ],
+        "sentences": [
+            "person eating an occasional bite from the pan.",
+            "person open the door to the refrigerator."
+        ],
+        "duration": 28.0625
+    },
+    "IVP8Q": {
+        "timestamps": [
+            [
+                18.1,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "another person puts papers on a shelf."
+        ],
+        "duration": 30.8125
+    },
+    "3O6KD": {
+        "timestamps": [
+            [
+                16.7,
+                31.0
+            ],
+            [
+                0.0,
+                10.0
+            ],
+            [
+                0.0,
+                10.0
+            ]
+        ],
+        "sentences": [
+            "person sits down on a chair.",
+            "a person is sitting on a bed.",
+            "the person sits on the bed."
+        ],
+        "duration": 30.1875
+    },
+    "3TUUI": {
+        "timestamps": [
+            [
+                22.1,
+                34.2
+            ]
+        ],
+        "sentences": [
+            "person begins putting their shoes on."
+        ],
+        "duration": 47.4375
+    },
+    "O3Y57": {
+        "timestamps": [
+            [
+                2.3,
+                9.0
+            ],
+            [
+                23.7,
+                31.0
+            ],
+            [
+                6.2,
+                13.1
+            ],
+            [
+                2.3,
+                9.0
+            ]
+        ],
+        "sentences": [
+            "person closed the door.",
+            "person they begin sneezing several times in succession.",
+            "person they put the bag over their head.",
+            "person closing the door to the room."
+        ],
+        "duration": 29.875
+    },
+    "PIRMO": {
+        "timestamps": [
+            [
+                3.5,
+                8.6
+            ],
+            [
+                4.5,
+                11.2
+            ],
+            [
+                0.4,
+                7.7
+            ],
+            [
+                1.3,
+                8.9
+            ],
+            [
+                10.7,
+                17.1
+            ]
+        ],
+        "sentences": [
+            "the person takes a cup off the shelf.",
+            "person drinking a glass of water the find a box.",
+            "a person in a closet putting a blanket away.",
+            "a person  putting a towel on a shelf.",
+            "person takes a box off the shelf."
+        ],
+        "duration": 22.625
+    },
+    "A52N5": {
+        "timestamps": [
+            [
+                1.1,
+                9.1
+            ],
+            [
+                13.1,
+                20.6
+            ]
+        ],
+        "sentences": [
+            "a person in a garage is awakens on a sofa.",
+            "the person opens a book."
+        ],
+        "duration": 31.125
+    },
+    "GLOMM": {
+        "timestamps": [
+            [
+                0.0,
+                4.0
+            ]
+        ],
+        "sentences": [
+            "person opens the closet."
+        ],
+        "duration": 11.3125
+    },
+    "5SAAB": {
+        "timestamps": [
+            [
+                12.5,
+                22.8
+            ],
+            [
+                24.2,
+                32.0
+            ],
+            [
+                4.8,
+                11.5
+            ],
+            [
+                24.2,
+                32.0
+            ],
+            [
+                27.2,
+                32.0
+            ],
+            [
+                27.2,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person they take a towel open the  window.",
+            "person sitting down on the sofa.",
+            "person puts a foot on the coffee table.",
+            "person sits on the sofa.",
+            "person eats some.",
+            "person eating food."
+        ],
+        "duration": 30.875
+    },
+    "3GA59": {
+        "timestamps": [
+            [
+                17.7,
+                23.3
+            ]
+        ],
+        "sentences": [
+            "this person runs out of the room with their homework."
+        ],
+        "duration": 23.125
+    },
+    "B8DL6": {
+        "timestamps": [
+            [
+                14.1,
+                22.0
+            ],
+            [
+                14.1,
+                22.0
+            ],
+            [
+                14.1,
+                22.0
+            ]
+        ],
+        "sentences": [
+            "person they tidy up the table.",
+            "person starts tidying up a table.",
+            "the person begins tidying the area around the table."
+        ],
+        "duration": 21.5625
+    },
+    "O8S0J": {
+        "timestamps": [
+            [
+                0.0,
+                8.4
+            ]
+        ],
+        "sentences": [
+            "a person is sitting at a desk as they eat."
+        ],
+        "duration": 17.25
+    },
+    "3YQE2": {
+        "timestamps": [
+            [
+                24.7,
+                31.0
+            ],
+            [
+                17.8,
+                29.6
+            ],
+            [
+                24.7,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "person turn off the light.",
+            "person starts sneezing.",
+            "person turns off the lights."
+        ],
+        "duration": 30.125
+    },
+    "0WLCJ": {
+        "timestamps": [
+            [
+                1.8,
+                7.2
+            ],
+            [
+                1.8,
+                7.2
+            ]
+        ],
+        "sentences": [
+            "a person throws a blanket on the sofa.",
+            "person throws blanket onto couch."
+        ],
+        "duration": 31.0625
+    },
+    "UNGPY": {
+        "timestamps": [
+            [
+                14.6,
+                20.2
+            ]
+        ],
+        "sentences": [
+            "person closes the door."
+        ],
+        "duration": 30.625
+    },
+    "MKDCU": {
+        "timestamps": [
+            [
+                0.0,
+                7.8
+            ]
+        ],
+        "sentences": [
+            "a person awakens in their bedroom snuggling a pillow."
+        ],
+        "duration": 37.5625
+    },
+    "OLSMC": {
+        "timestamps": [
+            [
+                0.0,
+                4.1
+            ]
+        ],
+        "sentences": [
+            "a person is sneezing into the mirror."
+        ],
+        "duration": 8.625
+    },
+    "3SKPS": {
+        "timestamps": [
+            [
+                17.6,
+                33.0
+            ],
+            [
+                17.6,
+                33.0
+            ]
+        ],
+        "sentences": [
+            "person another works on a laptop.",
+            "a second person is working on their laptop."
+        ],
+        "duration": 31.6875
+    },
+    "L8RW8": {
+        "timestamps": [
+            [
+                0.0,
+                3.5
+            ],
+            [
+                0.0,
+                3.5
+            ]
+        ],
+        "sentences": [
+            "the person is undressing in front of a sink.",
+            "a person undresses."
+        ],
+        "duration": 30.375
+    },
+    "1TAMK": {
+        "timestamps": [
+            [
+                2.8,
+                8.0
+            ],
+            [
+                3.2,
+                9.1
+            ]
+        ],
+        "sentences": [
+            "one person runs into the entryway.",
+            "a person is opening a door."
+        ],
+        "duration": 18.0625
+    },
+    "C1DK7": {
+        "timestamps": [
+            [
+                22.5,
+                28.0
+            ],
+            [
+                20.6,
+                25.9
+            ],
+            [
+                22.5,
+                28.0
+            ],
+            [
+                20.6,
+                25.9
+            ],
+            [
+                4.2,
+                10.2
+            ]
+        ],
+        "sentences": [
+            "person leaves closing door behind them.",
+            "person opens door.",
+            "person closing the door.",
+            "person opens a door.",
+            "a person leaves their phone on a closed laptop."
+        ],
+        "duration": 27.5
+    },
+    "QCIV0": {
+        "timestamps": [
+            [
+                0.0,
+                7.7
+            ],
+            [
+                15.2,
+                21.0
+            ],
+            [
+                15.2,
+                21.0
+            ]
+        ],
+        "sentences": [
+            "a person is sitting by the stairs eating some food.",
+            "person turn on the light.",
+            "person turn on a light."
+        ],
+        "duration": 22.0
+    },
+    "YMGGV": {
+        "timestamps": [
+            [
+                0.0,
+                5.7
+            ]
+        ],
+        "sentences": [
+            "a person sitting on couch turns on the tv."
+        ],
+        "duration": 28.4375
+    },
+    "VGTX8": {
+        "timestamps": [
+            [
+                29.3,
+                35.0
+            ]
+        ],
+        "sentences": [
+            "person closes the same window."
+        ],
+        "duration": 34.3125
+    },
+    "U9NI5": {
+        "timestamps": [
+            [
+                11.3,
+                16.6
+            ],
+            [
+                13.0,
+                22.3
+            ],
+            [
+                0.0,
+                5.1
+            ],
+            [
+                3.3,
+                11.2
+            ],
+            [
+                13.0,
+                22.3
+            ],
+            [
+                9.4,
+                16.5
+            ]
+        ],
+        "sentences": [
+            "person turned the lights on.",
+            "a person is standing in the kitchen eating a sandwich.",
+            "person watches themselves eat.",
+            "person drinking from a cup.",
+            "the person was eating a sandwich.",
+            "person the runs to a mirror on the wall."
+        ],
+        "duration": 21.75
+    },
+    "CSQLJ": {
+        "timestamps": [
+            [
+                1.8,
+                7.2
+            ]
+        ],
+        "sentences": [
+            "a person is sneezing on a dusty book."
+        ],
+        "duration": 31.5625
+    },
+    "V0WK7": {
+        "timestamps": [
+            [
+                6.1,
+                16.1
+            ]
+        ],
+        "sentences": [
+            "another person stands by them smiling."
+        ],
+        "duration": 31.125
+    },
+    "1XOQ8": {
+        "timestamps": [
+            [
+                1.1,
+                6.2
+            ]
+        ],
+        "sentences": [
+            "person they start throwing shoes out of the way."
+        ],
+        "duration": 29.8125
+    },
+    "ZIU9C": {
+        "timestamps": [
+            [
+                0.0,
+                5.0
+            ],
+            [
+                0.0,
+                5.0
+            ],
+            [
+                9.8,
+                15.7
+            ],
+            [
+                14.1,
+                23.0
+            ],
+            [
+                14.1,
+                23.0
+            ]
+        ],
+        "sentences": [
+            "a person takes a book from a bed.",
+            "a person takes a book off of the bed.",
+            "person puts it on the table.",
+            "person open the door.",
+            "the person opens the door."
+        ],
+        "duration": 29.75
+    },
+    "VJVHM": {
+        "timestamps": [
+            [
+                0.0,
+                8.0
+            ],
+            [
+                0.0,
+                8.0
+            ]
+        ],
+        "sentences": [
+            "a person turns on their lights.",
+            "the person turns on a light."
+        ],
+        "duration": 33.4375
+    },
+    "G2AMK": {
+        "timestamps": [
+            [
+                24.0,
+                28.0
+            ]
+        ],
+        "sentences": [
+            "person closing the door to it behind them."
+        ],
+        "duration": 27.375
+    },
+    "TAQ25": {
+        "timestamps": [
+            [
+                11.6,
+                17.7
+            ],
+            [
+                11.6,
+                17.7
+            ],
+            [
+                4.3,
+                16.5
+            ]
+        ],
+        "sentences": [
+            "the person closes the laptop.",
+            "the person closes the laptop screen.",
+            "person smiling at their laptop."
+        ],
+        "duration": 28.125
+    },
+    "A9YQJ": {
+        "timestamps": [
+            [
+                22.8,
+                34.0
+            ],
+            [
+                22.8,
+                34.0
+            ],
+            [
+                22.8,
+                34.0
+            ]
+        ],
+        "sentences": [
+            "person they fix their hair.",
+            "person fixes their hair.",
+            "person start fixing their hair."
+        ],
+        "duration": 33.0625
+    },
+    "VRY89": {
+        "timestamps": [
+            [
+                26.3,
+                32.0
+            ],
+            [
+                26.3,
+                32.0
+            ],
+            [
+                26.3,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person closing a door.",
+            "person they close the door behind them.",
+            "person closes a door."
+        ],
+        "duration": 31.5
+    },
+    "268ET": {
+        "timestamps": [
+            [
+                0.0,
+                9.7
+            ]
+        ],
+        "sentences": [
+            "a person opens a bag."
+        ],
+        "duration": 28.25
+    },
+    "GADLP": {
+        "timestamps": [
+            [
+                23.5,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person they are smiling at the camera."
+        ],
+        "duration": 31.5625
+    },
+    "9GMHF": {
+        "timestamps": [
+            [
+                12.8,
+                18.7
+            ],
+            [
+                12.8,
+                18.7
+            ],
+            [
+                14.3,
+                19.9
+            ]
+        ],
+        "sentences": [
+            "person opens another door.",
+            "the person opens the door.",
+            "person takes out a broom."
+        ],
+        "duration": 31.25
+    },
+    "6VUKN": {
+        "timestamps": [
+            [
+                24.2,
+                31.1
+            ]
+        ],
+        "sentences": [
+            "person begins walking to the doorway."
+        ],
+        "duration": 31.125
+    },
+    "FEWUR": {
+        "timestamps": [
+            [
+                21.2,
+                31.4
+            ],
+            [
+                21.4,
+                31.2
+            ]
+        ],
+        "sentences": [
+            "person throw their shoes.",
+            "person takes off their shoes."
+        ],
+        "duration": 30.875
+    },
+    "MSW4E": {
+        "timestamps": [
+            [
+                10.8,
+                19.3
+            ]
+        ],
+        "sentences": [
+            "the person is also eating some food."
+        ],
+        "duration": 28.875
+    },
+    "XHQT1": {
+        "timestamps": [
+            [
+                26.4,
+                34.2
+            ],
+            [
+                27.7,
+                33.4
+            ]
+        ],
+        "sentences": [
+            "person walks through a doorway.",
+            "person opens a door."
+        ],
+        "duration": 33.8125
+    },
+    "J8SHW": {
+        "timestamps": [
+            [
+                30.9,
+                40.0
+            ]
+        ],
+        "sentences": [
+            "person begins to make a sandwich."
+        ],
+        "duration": 39.0
+    },
+    "DP7DG": {
+        "timestamps": [
+            [
+                0.0,
+                4.1
+            ],
+            [
+                1.0,
+                7.7
+            ]
+        ],
+        "sentences": [
+            "person they are holding open a box.",
+            "the person is holding a box of dishes."
+        ],
+        "duration": 30.0625
+    },
+    "CYCEV": {
+        "timestamps": [
+            [
+                0.0,
+                4.8
+            ],
+            [
+                0.0,
+                5.9
+            ],
+            [
+                2.3,
+                9.7
+            ]
+        ],
+        "sentences": [
+            "another person is looking out the window.",
+            "person holding some food.",
+            "the person holding the tray drinks from the cup."
+        ],
+        "duration": 30.9375
+    },
+    "T8DK4": {
+        "timestamps": [
+            [
+                16.3,
+                23.3
+            ],
+            [
+                0.0,
+                6.3
+            ],
+            [
+                0.0,
+                10.5
+            ],
+            [
+                15.7,
+                26.7
+            ],
+            [
+                15.7,
+                26.7
+            ]
+        ],
+        "sentences": [
+            "person fixing hair.",
+            "a person is sitting on the floor smiling.",
+            "the person laughs.",
+            "person puts the mirror on the shelf.",
+            "person putting it on the shelf."
+        ],
+        "duration": 30.625
+    },
+    "QU2WL": {
+        "timestamps": [
+            [
+                12.0,
+                19.1
+            ],
+            [
+                12.0,
+                19.1
+            ]
+        ],
+        "sentences": [
+            "person they are eating a sandwich.",
+            "person starts eating."
+        ],
+        "duration": 34.375
+    },
+    "78R4Y": {
+        "timestamps": [
+            [
+                0.4,
+                5.4
+            ],
+            [
+                1.6,
+                6.7
+            ],
+            [
+                12.0,
+                17.0
+            ],
+            [
+                0.0,
+                4.7
+            ],
+            [
+                12.0,
+                17.0
+            ]
+        ],
+        "sentences": [
+            "the person opens the refrigerator door.",
+            "a person is putting away groceries in refrigerator.",
+            "person closing the door.",
+            "a person open the refrigerator.",
+            "person closing its door."
+        ],
+        "duration": 17.875
+    },
+    "BMPEV": {
+        "timestamps": [
+            [
+                16.6,
+                25.2
+            ],
+            [
+                8.5,
+                16.8
+            ],
+            [
+                16.6,
+                25.2
+            ]
+        ],
+        "sentences": [
+            "person turning the light off.",
+            "a person is sneezing into a bag of groceries.",
+            "person turning off a light."
+        ],
+        "duration": 28.0625
+    },
+    "61WIS": {
+        "timestamps": [
+            [
+                0.0,
+                5.6
+            ],
+            [
+                20.2,
+                25.5
+            ],
+            [
+                9.6,
+                16.1
+            ],
+            [
+                0.0,
+                5.6
+            ],
+            [
+                10.1,
+                16.1
+            ]
+        ],
+        "sentences": [
+            "person they sit down on the sofa.",
+            "person stand up.",
+            "person also putting a pillow onto the ground.",
+            "a person with a laptop sits on a sofa.",
+            "person they take a pillow."
+        ],
+        "duration": 27.0
+    },
+    "E7CJ0": {
+        "timestamps": [
+            [
+                15.9,
+                24.7
+            ]
+        ],
+        "sentences": [
+            "another person is sneezing into a blanket."
+        ],
+        "duration": 32.1875
+    },
+    "13IJA": {
+        "timestamps": [
+            [
+                5.9,
+                10.9
+            ],
+            [
+                0.0,
+                7.0
+            ]
+        ],
+        "sentences": [
+            "the person throws the blanket on the floor.",
+            "the person is sitting down holding a blanket."
+        ],
+        "duration": 31.1875
+    },
+    "FHXKQ": {
+        "timestamps": [
+            [
+                0.0,
+                8.6
+            ]
+        ],
+        "sentences": [
+            "a person is putting some groceries on a table."
+        ],
+        "duration": 30.25
+    },
+    "9SZG2": {
+        "timestamps": [
+            [
+                0.0,
+                3.7
+            ]
+        ],
+        "sentences": [
+            "a person is walking past the doorway."
+        ],
+        "duration": 33.25
+    },
+    "03M0K": {
+        "timestamps": [
+            [
+                7.5,
+                13.9
+            ],
+            [
+                0.2,
+                9.9
+            ],
+            [
+                7.5,
+                13.9
+            ]
+        ],
+        "sentences": [
+            "person opens a laptop.",
+            "a person is dressing.",
+            "the person opens their laptop."
+        ],
+        "duration": 23.5625
+    },
+    "KRRBE": {
+        "timestamps": [
+            [
+                5.0,
+                11.1
+            ],
+            [
+                11.6,
+                18.5
+            ],
+            [
+                0.0,
+                8.6
+            ],
+            [
+                0.0,
+                9.3
+            ],
+            [
+                0.0,
+                8.9
+            ]
+        ],
+        "sentences": [
+            "person they stand up.",
+            "person walk through a doorway.",
+            "a person is sitting on a chair using a tablet.",
+            "a person is looking at a book.",
+            "person looking at a picture."
+        ],
+        "duration": 18.9375
+    },
+    "CMI7U": {
+        "timestamps": [
+            [
+                0.0,
+                5.2
+            ],
+            [
+                14.6,
+                21.3
+            ],
+            [
+                14.6,
+                21.3
+            ]
+        ],
+        "sentences": [
+            "a person is sitting on a chair holding books.",
+            "person puts the books on a shelf.",
+            "person the putting books on a shelf in the hallway."
+        ],
+        "duration": 35.5
+    },
+    "QCVZN": {
+        "timestamps": [
+            [
+                6.2,
+                12.0
+            ]
+        ],
+        "sentences": [
+            "a person takes a book off a shelf."
+        ],
+        "duration": 25.4375
+    },
+    "3JSX7": {
+        "timestamps": [
+            [
+                7.2,
+                15.6
+            ],
+            [
+                7.2,
+                15.6
+            ]
+        ],
+        "sentences": [
+            "person works on a burnt-out light.",
+            "person turns on a light."
+        ],
+        "duration": 31.75
+    },
+    "P7TT1": {
+        "timestamps": [
+            [
+                1.4,
+                6.6
+            ]
+        ],
+        "sentences": [
+            "person throwing them on the floor."
+        ],
+        "duration": 30.6875
+    },
+    "013SD": {
+        "timestamps": [
+            [
+                0.0,
+                4.3
+            ],
+            [
+                5.8,
+                10.0
+            ],
+            [
+                5.8,
+                10.0
+            ]
+        ],
+        "sentences": [
+            "a person puts a box on a bed.",
+            "person turning off a light.",
+            "person they turned around to turn the bedroom light off."
+        ],
+        "duration": 9.5
+    },
+    "1FX8Q": {
+        "timestamps": [
+            [
+                0.0,
+                5.9
+            ]
+        ],
+        "sentences": [
+            "one person opens a bag."
+        ],
+        "duration": 28.3125
+    },
+    "WT59C": {
+        "timestamps": [
+            [
+                17.6,
+                23.1
+            ],
+            [
+                17.6,
+                23.1
+            ]
+        ],
+        "sentences": [
+            "person throws it onto the floor.",
+            "person throwing a broom on the floor."
+        ],
+        "duration": 30.875
+    },
+    "SOTQ1": {
+        "timestamps": [
+            [
+                25.9,
+                31.3
+            ]
+        ],
+        "sentences": [
+            "a person laughs."
+        ],
+        "duration": 31.6875
+    },
+    "VT64S": {
+        "timestamps": [
+            [
+                3.5,
+                10.0
+            ]
+        ],
+        "sentences": [
+            "a person takes a box of food from the table."
+        ],
+        "duration": 32.1875
+    },
+    "KNGUT": {
+        "timestamps": [
+            [
+                24.0,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "a person is eating something from a bag."
+        ],
+        "duration": 30.5625
+    },
+    "YQOPM": {
+        "timestamps": [
+            [
+                4.8,
+                18.1
+            ]
+        ],
+        "sentences": [
+            "a person throws some clothes into a box."
+        ],
+        "duration": 46.6875
+    },
+    "VIDIE": {
+        "timestamps": [
+            [
+                18.0,
+                25.9
+            ]
+        ],
+        "sentences": [
+            "person throws the pair of shoes into the corner."
+        ],
+        "duration": 27.9375
+    },
+    "44T8B": {
+        "timestamps": [
+            [
+                0.0,
+                3.5
+            ]
+        ],
+        "sentences": [
+            "a person washes their hands in a bathroom."
+        ],
+        "duration": 29.8125
+    },
+    "CZPU9": {
+        "timestamps": [
+            [
+                18.6,
+                24.9
+            ],
+            [
+                0.0,
+                5.2
+            ],
+            [
+                25.5,
+                30.4
+            ],
+            [
+                0.0,
+                5.2
+            ],
+            [
+                13.6,
+                29.7
+            ],
+            [
+                6.0,
+                13.7
+            ],
+            [
+                18.6,
+                24.9
+            ],
+            [
+                0.0,
+                11.6
+            ],
+            [
+                6.0,
+                13.7
+            ]
+        ],
+        "sentences": [
+            "person takes the medicine.",
+            "the person put a towel on the doorknob.",
+            "person closes the cabinet door.",
+            "a person is putting a towel on the doorknob.",
+            "person opens a cabinet.",
+            "person started undressing.",
+            "person takes out a box of medicine.",
+            "a person puts clothes on a doorknob.",
+            "person he undresses."
+        ],
+        "duration": 35.5625
+    },
+    "A0T30": {
+        "timestamps": [
+            [
+                7.6,
+                15.2
+            ],
+            [
+                7.6,
+                15.2
+            ]
+        ],
+        "sentences": [
+            "person take a small towel.",
+            "person they take a towel from a table."
+        ],
+        "duration": 27.75
+    },
+    "D52S5": {
+        "timestamps": [
+            [
+                16.4,
+                23.6
+            ],
+            [
+                6.2,
+                12.9
+            ],
+            [
+                25.2,
+                33.0
+            ],
+            [
+                21.4,
+                33.0
+            ],
+            [
+                6.2,
+                12.9
+            ],
+            [
+                6.2,
+                12.9
+            ]
+        ],
+        "sentences": [
+            "person he sits down in a chair.",
+            "person takes a seat at the table.",
+            "the person reaches behind the person to open the cabinet.",
+            "person grabs a drink from a bottle.",
+            "person eats some more food.",
+            "person eats it."
+        ],
+        "duration": 32.1875
+    },
+    "1DGC9": {
+        "timestamps": [
+            [
+                0.0,
+                7.8
+            ],
+            [
+                9.1,
+                14.1
+            ],
+            [
+                18.6,
+                25.0
+            ],
+            [
+                0.0,
+                7.8
+            ]
+        ],
+        "sentences": [
+            "a person awakens in a closet snuggling their pillow.",
+            "person they stand up.",
+            "person close the door behind them.",
+            "a person awakens in the bathroom."
+        ],
+        "duration": 24.1875
+    },
+    "9D2T4": {
+        "timestamps": [
+            [
+                4.2,
+                9.6
+            ]
+        ],
+        "sentences": [
+            "a person is in the hallway throwing a pillow."
+        ],
+        "duration": 31.0625
+    },
+    "QH3FK": {
+        "timestamps": [
+            [
+                20.9,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person they drink water from the glass."
+        ],
+        "duration": 30.875
+    },
+    "RNLTR": {
+        "timestamps": [
+            [
+                7.3,
+                13.5
+            ]
+        ],
+        "sentences": [
+            "person throwing their clothes on the sofa."
+        ],
+        "duration": 23.6875
+    },
+    "W2NHA": {
+        "timestamps": [
+            [
+                0.0,
+                9.6
+            ],
+            [
+                0.0,
+                9.6
+            ],
+            [
+                0.0,
+                9.6
+            ]
+        ],
+        "sentences": [
+            "a person is laughing at a television.",
+            "person forth from laughter.",
+            "a person is seen laughing."
+        ],
+        "duration": 30.9375
+    },
+    "2443O": {
+        "timestamps": [
+            [
+                10.7,
+                18.0
+            ],
+            [
+                10.7,
+                18.0
+            ]
+        ],
+        "sentences": [
+            "the person takes out their phone.",
+            "person takes out a phone."
+        ],
+        "duration": 31.75
+    },
+    "SVO89": {
+        "timestamps": [
+            [
+                14.7,
+                21.2
+            ],
+            [
+                19.0,
+                25.6
+            ]
+        ],
+        "sentences": [
+            "person takes a book off of a shelf.",
+            "person closes the door behind him."
+        ],
+        "duration": 26.9375
+    },
+    "CP07P": {
+        "timestamps": [
+            [
+                1.7,
+                11.8
+            ]
+        ],
+        "sentences": [
+            "another person is standing their smiling."
+        ],
+        "duration": 31.0625
+    },
+    "LGS4C": {
+        "timestamps": [
+            [
+                0.0,
+                11.3
+            ],
+            [
+                15.8,
+                24.5
+            ],
+            [
+                0.0,
+                11.3
+            ],
+            [
+                0.0,
+                11.3
+            ]
+        ],
+        "sentences": [
+            "a person runs in through their doorway.",
+            "person slightly closes the door.",
+            "the person is running towards a room.",
+            "a person is running into the room holding their phone."
+        ],
+        "duration": 31.125
+    },
+    "5AE54": {
+        "timestamps": [
+            [
+                17.1,
+                28.0
+            ],
+            [
+                8.4,
+                16.6
+            ],
+            [
+                0.0,
+                8.5
+            ]
+        ],
+        "sentences": [
+            "another person is tidying the table.",
+            "lies on the bed when a second person walks in.",
+            "a person is running to the phone."
+        ],
+        "duration": 31.0
+    },
+    "47D1Y": {
+        "timestamps": [
+            [
+                0.3,
+                6.3
+            ]
+        ],
+        "sentences": [
+            "the person opens the bathroom cabinet."
+        ],
+        "duration": 33.0625
+    },
+    "JJON5": {
+        "timestamps": [
+            [
+                6.7,
+                14.7
+            ],
+            [
+                3.0,
+                8.3
+            ]
+        ],
+        "sentences": [
+            "person opens the refrigerator.",
+            "the person walks through a doorway to the kitchen."
+        ],
+        "duration": 27.9375
+    },
+    "H1XBH": {
+        "timestamps": [
+            [
+                8.3,
+                14.7
+            ],
+            [
+                8.3,
+                14.7
+            ],
+            [
+                0.0,
+                6.8
+            ],
+            [
+                1.2,
+                7.2
+            ]
+        ],
+        "sentences": [
+            "that same person eats some chips.",
+            "person begins to eat some food.",
+            "a person is holding a pillow.",
+            "a person is putting a pillow on a sofa."
+        ],
+        "duration": 27.5
+    },
+    "PE41X": {
+        "timestamps": [
+            [
+                0.0,
+                7.4
+            ],
+            [
+                0.0,
+                7.4
+            ],
+            [
+                28.1,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "person holding a broom.",
+            "a person is sitting on a chair holding a broom.",
+            "a person is in their kitchen sitting on a chair."
+        ],
+        "duration": 30.1875
+    },
+    "3X52E": {
+        "timestamps": [
+            [
+                0.0,
+                2.9
+            ],
+            [
+                0.0,
+                3.8
+            ],
+            [
+                14.6,
+                19.8
+            ]
+        ],
+        "sentences": [
+            "a person is undressing.",
+            "person throw it on the floor.",
+            "person they start throwing a blanket on the ground."
+        ],
+        "duration": 32.25
+    },
+    "NWGVT": {
+        "timestamps": [
+            [
+                1.2,
+                13.8
+            ]
+        ],
+        "sentences": [
+            "person pouring it into a cup to make some coffee."
+        ],
+        "duration": 30.8125
+    },
+    "EIKUN": {
+        "timestamps": [
+            [
+                5.5,
+                11.7
+            ]
+        ],
+        "sentences": [
+            "a person puts a box of groceries onto the table."
+        ],
+        "duration": 30.5625
+    },
+    "MU54W": {
+        "timestamps": [
+            [
+                17.9,
+                27.0
+            ],
+            [
+                17.9,
+                27.0
+            ],
+            [
+                0.0,
+                12.0
+            ]
+        ],
+        "sentences": [
+            "person snuggling a big fluffy blanket.",
+            "a person is snuggling with a blanket.",
+            "a person is holding a vacuum."
+        ],
+        "duration": 26.1875
+    },
+    "58VZI": {
+        "timestamps": [
+            [
+                16.5,
+                23.4
+            ],
+            [
+                0.8,
+                14.0
+            ]
+        ],
+        "sentences": [
+            "person puts a pillow on the bench.",
+            "person drinking a glass of water."
+        ],
+        "duration": 34.9375
+    },
+    "P2UBC": {
+        "timestamps": [
+            [
+                5.7,
+                13.7
+            ],
+            [
+                28.8,
+                33.5
+            ],
+            [
+                4.5,
+                13.0
+            ],
+            [
+                4.5,
+                13.0
+            ],
+            [
+                28.8,
+                33.5
+            ]
+        ],
+        "sentences": [
+            "person begin sneezing.",
+            "person turn off the light.",
+            "person proceed to put on a pair of shoes.",
+            "person they put on their shoes.",
+            "person turning off a light."
+        ],
+        "duration": 33.375
+    },
+    "AFAXI": {
+        "timestamps": [
+            [
+                9.2,
+                19.3
+            ],
+            [
+                15.7,
+                28.0
+            ],
+            [
+                15.7,
+                28.0
+            ]
+        ],
+        "sentences": [
+            "one person who is lying down awakens.",
+            "person sitting on the bed.",
+            "a person is lying on a bed they sit up."
+        ],
+        "duration": 27.125
+    },
+    "WT2C0": {
+        "timestamps": [
+            [
+                21.6,
+                32.0
+            ],
+            [
+                21.6,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "person eating a sandwich.",
+            "person use it to wipe the sweat from their forehead."
+        ],
+        "duration": 30.9375
+    },
+    "1UXVA": {
+        "timestamps": [
+            [
+                8.3,
+                16.7
+            ],
+            [
+                15.0,
+                22.6
+            ]
+        ],
+        "sentences": [
+            "person is sitting down eating food.",
+            "the person drinks a glass of water."
+        ],
+        "duration": 30.8125
+    },
+    "D1VWG": {
+        "timestamps": [
+            [
+                4.3,
+                10.0
+            ]
+        ],
+        "sentences": [
+            "person they open a box."
+        ],
+        "duration": 22.875
+    },
+    "UB3KO": {
+        "timestamps": [
+            [
+                4.2,
+                11.2
+            ],
+            [
+                20.8,
+                26.3
+            ],
+            [
+                4.2,
+                11.2
+            ]
+        ],
+        "sentences": [
+            "person cooking a piece of meat.",
+            "person opens their laptop.",
+            "person cooks something."
+        ],
+        "duration": 43.0625
+    },
+    "DJG7A": {
+        "timestamps": [
+            [
+                1.9,
+                11.9
+            ]
+        ],
+        "sentences": [
+            "person puts some clothes on it."
+        ],
+        "duration": 30.9375
+    },
+    "2FPB3": {
+        "timestamps": [
+            [
+                0.0,
+                13.3
+            ],
+            [
+                8.0,
+                15.8
+            ],
+            [
+                3.2,
+                10.8
+            ]
+        ],
+        "sentences": [
+            "a person holds an orange book.",
+            "person put the book down.",
+            "a person is sneezing into a book."
+        ],
+        "duration": 32.5
+    },
+    "71QKB": {
+        "timestamps": [
+            [
+                0.0,
+                3.6
+            ],
+            [
+                0.0,
+                3.6
+            ]
+        ],
+        "sentences": [
+            "a person eats a sandwich in the kitchen.",
+            "a person eating a sandwich."
+        ],
+        "duration": 29.625
+    },
+    "XKLW2": {
+        "timestamps": [
+            [
+                8.2,
+                13.7
+            ]
+        ],
+        "sentences": [
+            "another person walks through the nearest doorway."
+        ],
+        "duration": 28.9375
+    },
+    "J39ZC": {
+        "timestamps": [
+            [
+                25.8,
+                36.0
+            ],
+            [
+                25.8,
+                36.0
+            ]
+        ],
+        "sentences": [
+            "a person is eating something from a box.",
+            "person someone is standing by a door eating something."
+        ],
+        "duration": 35.3125
+    },
+    "RH2YW": {
+        "timestamps": [
+            [
+                12.1,
+                18.3
+            ],
+            [
+                2.3,
+                8.5
+            ],
+            [
+                2.3,
+                8.5
+            ]
+        ],
+        "sentences": [
+            "person open a book.",
+            "person eating a sandwich.",
+            "a person standing next to a table eats a sandwich."
+        ],
+        "duration": 30.5625
+    },
+    "94ICP": {
+        "timestamps": [
+            [
+                0.0,
+                7.2
+            ],
+            [
+                0.0,
+                7.2
+            ]
+        ],
+        "sentences": [
+            "person he is cooking.",
+            "a person cooks on a stove."
+        ],
+        "duration": 25.3125
+    },
+    "APVAD": {
+        "timestamps": [
+            [
+                0.0,
+                13.8
+            ],
+            [
+                17.1,
+                31.0
+            ],
+            [
+                17.1,
+                31.0
+            ]
+        ],
+        "sentences": [
+            "a person is undressing in the basement.",
+            "person runs out.",
+            "person runs out the door."
+        ],
+        "duration": 30.25
+    },
+    "9TPP3": {
+        "timestamps": [
+            [
+                0.0,
+                8.4
+            ]
+        ],
+        "sentences": [
+            "person drinking a cup of coffee."
+        ],
+        "duration": 30.5625
+    },
+    "H032R": {
+        "timestamps": [
+            [
+                0.8,
+                6.8
+            ],
+            [
+                12.4,
+                23.0
+            ]
+        ],
+        "sentences": [
+            "person throws a towel on the floor.",
+            "person sitting down on a pillow in the bed."
+        ],
+        "duration": 22.4375
+    },
+    "Z0IE9": {
+        "timestamps": [
+            [
+                12.2,
+                18.5
+            ],
+            [
+                12.2,
+                18.5
+            ],
+            [
+                12.2,
+                18.5
+            ]
+        ],
+        "sentences": [
+            "person fixing a light.",
+            "a person is fixing a light in a room.",
+            "person when he turns it the light turns on brightly."
+        ],
+        "duration": 24.125
+    },
+    "DIB6D": {
+        "timestamps": [
+            [
+                18.9,
+                24.4
+            ],
+            [
+                9.2,
+                18.1
+            ]
+        ],
+        "sentences": [
+            "person drinks a glass of water.",
+            "a person in the bathroom is smiling in the mirror."
+        ],
+        "duration": 30.4375
+    },
+    "YEHFQ": {
+        "timestamps": [
+            [
+                8.1,
+                22.6
+            ],
+            [
+                20.7,
+                32.0
+            ],
+            [
+                20.7,
+                32.0
+            ]
+        ],
+        "sentences": [
+            "a person enters the front door holding a bag.",
+            "person eating a sandwich.",
+            "the person starts eating something."
+        ],
+        "duration": 30.8125
+    },
+    "CDNV7": {
+        "timestamps": [
+            [
+                18.4,
+                23.8
+            ],
+            [
+                18.4,
+                23.8
+            ]
+        ],
+        "sentences": [
+            "another person turns on a light.",
+            "person turns on the light."
+        ],
+        "duration": 29.9375
+    },
+    "UQPO0": {
+        "timestamps": [
+            [
+                39.0,
+                49.3
+            ],
+            [
+                39.0,
+                49.3
+            ]
+        ],
+        "sentences": [
+            "person sits down in a chair.",
+            "person they sit in a nearby chair."
+        ],
+        "duration": 50.4375
+    },
+    "JRSPH": {
+        "timestamps": [
+            [
+                0.0,
+                14.2
+            ]
+        ],
+        "sentences": [
+            "a person sitting in a chair takes off their shoes."
+        ],
+        "duration": 31.8125
+    },
+    "6VUIO": {
+        "timestamps": [
+            [
+                5.5,
+                14.6
+            ],
+            [
+                5.5,
+                14.6
+            ],
+            [
+                5.1,
+                11.9
+            ]
+        ],
+        "sentences": [
+            "person drinking a glass of water.",
+            "person drinking from a glass in the pantry.",
+            "the person takes a glass of water."
+        ],
+        "duration": 30.1875
+    },
+    "AOQ7C": {
+        "timestamps": [
+            [
+                0.0,
+                6.0
+            ],
+            [
+                7.5,
+                17.4
+            ],
+            [
+                7.5,
+                17.4
+            ],
+            [
+                0.0,
+                6.0
+            ],
+            [
+                0.0,
+                6.0
+            ],
+            [
+                0.0,
+                6.0
+            ]
+        ],
+        "sentences": [
+            "person close the second door.",
+            "person runs down the hallway.",
+            "person run through to a second door.",
+            "a person closed the door.",
+            "person closes the door.",
+            "person closes a door."
+        ],
+        "duration": 28.4375
+    }
+}
